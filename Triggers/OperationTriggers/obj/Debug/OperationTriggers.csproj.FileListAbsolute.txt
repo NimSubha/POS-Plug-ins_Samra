@@ -1,0 +1,43 @@
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\ResolveAssemblyReference.cache
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.dll
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.pdb
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.dll
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.pdb
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\ResolveAssemblyReference.cache
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.dll
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.pdb
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.dll
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.pdb
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.csprojResolveAssemblyReference.cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.pdb
+D:\AX Retail POS_Reliance\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS_Reliance\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.dll
+D:\AX Retail POS_Reliance\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.pdb
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Triggers\OperationTriggers.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Triggers\OperationTriggers.pdb
+D:\POS\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.csprojResolveAssemblyReference.cache
+D:\POS\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.dll
+D:\POS\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.pdb
+D:\Retail MME\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.csprojResolveAssemblyReference.cache
+D:\Retail MME\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.dll
+D:\Retail MME\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.pdb
+D:\Retail Samra\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.csprojResolveAssemblyReference.cache
+D:\Retail Samra\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.dll
+D:\Retail Samra\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.pdb
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Triggers\OperationTriggers.dll
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Triggers\OperationTriggers.pdb
+C:\POS\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.dll
+C:\POS\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.pdb
+C:\POS\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.csprojResolveAssemblyReference.cache
+C:\Nim Dev\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.csprojResolveAssemblyReference.cache
+C:\Nim Dev\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.dll
+C:\Nim Dev\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.pdb
+E:\POS Source\Retail Samra\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.csprojResolveAssemblyReference.cache
+E:\POS Source\Retail Samra\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.dll
+E:\POS Source\Retail Samra\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.pdb
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.csprojResolveAssemblyReference.cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.dll
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Triggers\OperationTriggers\obj\Debug\OperationTriggers.pdb

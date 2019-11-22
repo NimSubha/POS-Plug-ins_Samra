@@ -1,0 +1,41 @@
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\ResolveAssemblyReference.cache
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.dll
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.pdb
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.dll
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.pdb
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\ResolveAssemblyReference.cache
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.dll
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.pdb
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.dll
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.pdb
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.pdb
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.csprojResolveAssemblyReference.cache
+D:\AX Retail POS_Reliance\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS_Reliance\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.dll
+D:\AX Retail POS_Reliance\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.pdb
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Triggers\SuspendTriggers.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Triggers\SuspendTriggers.pdb
+D:\POS\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.dll
+D:\POS\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.pdb
+D:\POS\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.csprojResolveAssemblyReference.cache
+D:\Retail MME\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.dll
+D:\Retail MME\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.pdb
+D:\Retail MME\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.csprojResolveAssemblyReference.cache
+D:\Retail Samra\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.dll
+D:\Retail Samra\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.pdb
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Triggers\SuspendTriggers.dll
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Triggers\SuspendTriggers.pdb
+C:\POS\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.dll
+C:\POS\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.pdb
+C:\POS\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.csprojResolveAssemblyReference.cache
+C:\Nim Dev\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.csprojResolveAssemblyReference.cache
+C:\Nim Dev\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.dll
+C:\Nim Dev\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.pdb
+D:\Retail Samra\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.csprojResolveAssemblyReference.cache
+E:\POS Source\Retail Samra\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.dll
+E:\POS Source\Retail Samra\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.pdb
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.dll
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Triggers\SuspendTriggers\obj\Debug\SuspendTriggers.pdb
