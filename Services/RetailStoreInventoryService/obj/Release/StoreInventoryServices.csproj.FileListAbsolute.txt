@@ -1,0 +1,4 @@
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\RetailStoreInventoryService\bin\Release\StoreInventoryServices.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\RetailStoreInventoryService\obj\Release\StoreInventoryServices.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\StoreInventoryServices.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\RetailStoreInventoryService\obj\Release\StoreInventoryServices.csprojResolveAssemblyReference.cache

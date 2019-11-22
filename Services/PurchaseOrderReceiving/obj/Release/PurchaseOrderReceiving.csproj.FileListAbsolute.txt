@@ -1,0 +1,10 @@
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\PurchaseOrderReceiving\bin\Release\PurchaseOrderReceiving.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\PurchaseOrderReceiving\bin\Release\Application.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\PurchaseOrderReceiving\obj\Release\Microsoft.Dynamics.Retail.Pos.PurchaseOrderReceiving.frmPurchaseOrderReceiving.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\PurchaseOrderReceiving\obj\Release\Microsoft.Dynamics.Retail.Pos.PurchaseOrderReceiving.Properties.Resources.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\PurchaseOrderReceiving\obj\Release\Microsoft.Dynamics.Retail.Pos.PurchaseOrderReceiving.WinFormsTouch.frmPurchaseOrderReceiptSearch.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\PurchaseOrderReceiving\obj\Release\PurchaseOrderReceiving.csproj.GenerateResource.Cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\PurchaseOrderReceiving\obj\Release\PurchaseOrderReceiving.dll.licenses
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\PurchaseOrderReceiving\obj\Release\PurchaseOrderReceiving.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\PurchaseOrderReceiving.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\PurchaseOrderReceiving\obj\Release\PurchaseOrderReceiving.csprojResolveAssemblyReference.cache
