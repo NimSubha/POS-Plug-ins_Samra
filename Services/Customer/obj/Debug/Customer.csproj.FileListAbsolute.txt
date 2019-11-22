@@ -1,0 +1,215 @@
+C:\Users\dvsdev2\Desktop\Services\Customer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dvsdev2\Desktop\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.frmReportList.resources
+C:\Users\dvsdev2\Desktop\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.Properties.Resources.resources
+C:\Users\dvsdev2\Desktop\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.AddressUserControl.resources
+C:\Users\dvsdev2\Desktop\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewShippingAddress.resources
+C:\Users\dvsdev2\Desktop\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerSearch.resources
+C:\Users\dvsdev2\Desktop\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerTransactions.resources
+C:\Users\dvsdev2\Desktop\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewCustomer.resources
+C:\Users\dvsdev2\Desktop\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmPrintSelection.resources
+C:\Users\dvsdev2\Desktop\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmShippingAddressSearch.resources
+C:\Users\dvsdev2\Desktop\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.ViewAddressUserControl.resources
+C:\Users\dvsdev2\Desktop\Services\Customer\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\dvsdev2\Desktop\Services\Customer\obj\Debug\GenerateResource.write.1.tlog
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Customer\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.frmReportList.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.Properties.Resources.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.AddressUserControl.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewShippingAddress.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerSearch.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerTransactions.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewCustomer.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmPrintSelection.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmShippingAddressSearch.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.ViewAddressUserControl.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Customer\obj\Debug\GenerateResource.read.1.tlog
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Customer\obj\Debug\GenerateResource.write.1.tlog
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Customer\obj\Debug\Customer.dll
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Customer\obj\Debug\Customer.pdb
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\ResolveAssemblyReference.cache
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.frmReportList.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.Properties.Resources.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.AddressUserControl.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewShippingAddress.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerSearch.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerTransactions.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewCustomer.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmPrintSelection.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmShippingAddressSearch.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.ViewAddressUserControl.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\GenerateResource.read.1.tlog
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\GenerateResource.write.1.tlog
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\Customer.dll
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\Customer.pdb
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.frmReportList.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.Properties.Resources.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.AddressUserControl.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewShippingAddress.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerSearch.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerTransactions.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewCustomer.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmPrintSelection.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmShippingAddressSearch.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.ViewAddressUserControl.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\GenerateResource.read.1.tlog
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\GenerateResource.write.1.tlog
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\Customer.dll
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\Customer.pdb
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Customer\obj\Debug\Customer.dll.licenses
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.frmReportList.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.Properties.Resources.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.AddressUserControl.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewShippingAddress.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerSearch.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerTransactions.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewCustomer.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmPrintSelection.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmShippingAddressSearch.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.ViewAddressUserControl.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Customer\obj\Debug\Customer.csproj.GenerateResource.Cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Customer\obj\Debug\Customer.dll.licenses
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Customer\obj\Debug\Customer.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Customer\obj\Debug\Customer.pdb
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.frmReportList.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.Properties.Resources.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.AddressUserControl.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewShippingAddress.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerSearch.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerTransactions.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewCustomer.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmPrintSelection.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmShippingAddressSearch.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.ViewAddressUserControl.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\GenerateResource.read.1.tlog
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\GenerateResource.write.1.tlog
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Customer.dll.licenses
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Customer.dll
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Customer.pdb
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\ResolveAssemblyReference.cache
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.frmReportList.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.Properties.Resources.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.AddressUserControl.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewShippingAddress.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerSearch.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerTransactions.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewCustomer.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmPrintSelection.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmShippingAddressSearch.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.ViewAddressUserControl.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\GenerateResource.read.1.tlog
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\GenerateResource.write.1.tlog
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Customer.dll.licenses
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Customer.dll
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\Customer\obj\Debug\Customer.pdb
+D:\POS\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.frmReportList.resources
+D:\POS\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.Properties.Resources.resources
+D:\POS\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.AddressUserControl.resources
+D:\POS\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewShippingAddress.resources
+D:\POS\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerSearch.resources
+D:\POS\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerTransactions.resources
+D:\POS\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewCustomer.resources
+D:\POS\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmPrintSelection.resources
+D:\POS\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmShippingAddressSearch.resources
+D:\POS\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.ViewAddressUserControl.resources
+D:\POS\POS Plug-ins\Services\Customer\obj\Debug\Customer.csproj.GenerateResource.Cache
+D:\POS\POS Plug-ins\Services\Customer\obj\Debug\Customer.dll.licenses
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\Customer.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\Customer.pdb
+D:\POS\POS Plug-ins\Services\Customer\obj\Debug\Customer.dll
+D:\POS\POS Plug-ins\Services\Customer\obj\Debug\Customer.pdb
+D:\POS\POS Plug-ins\Services\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+D:\Retail MME\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.frmReportList.resources
+D:\Retail MME\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.Properties.Resources.resources
+D:\Retail MME\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.AddressUserControl.resources
+D:\Retail MME\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewShippingAddress.resources
+D:\Retail MME\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerSearch.resources
+D:\Retail MME\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerTransactions.resources
+D:\Retail MME\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewCustomer.resources
+D:\Retail MME\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmPrintSelection.resources
+D:\Retail MME\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmShippingAddressSearch.resources
+D:\Retail MME\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.ViewAddressUserControl.resources
+D:\Retail MME\POS Plug-ins\Services\Customer\obj\Debug\Customer.csproj.GenerateResource.Cache
+D:\Retail MME\POS Plug-ins\Services\Customer\obj\Debug\Customer.dll.licenses
+D:\Retail MME\POS Plug-ins\Services\Customer\obj\Debug\Customer.dll
+D:\Retail MME\POS Plug-ins\Services\Customer\obj\Debug\Customer.pdb
+D:\Retail MME\POS Plug-ins\Services\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+D:\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.frmReportList.resources
+D:\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.Properties.Resources.resources
+D:\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.AddressUserControl.resources
+D:\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewShippingAddress.resources
+D:\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerSearch.resources
+D:\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerTransactions.resources
+D:\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewCustomer.resources
+D:\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmPrintSelection.resources
+D:\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmShippingAddressSearch.resources
+D:\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.ViewAddressUserControl.resources
+D:\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Customer.csproj.GenerateResource.Cache
+D:\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Customer.dll.licenses
+D:\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Customer.dll
+D:\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Customer.pdb
+C:\POS\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.frmReportList.resources
+C:\POS\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.Properties.Resources.resources
+C:\POS\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.AddressUserControl.resources
+C:\POS\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewShippingAddress.resources
+C:\POS\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerSearch.resources
+C:\POS\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerTransactions.resources
+C:\POS\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewCustomer.resources
+C:\POS\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmPrintSelection.resources
+C:\POS\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmShippingAddressSearch.resources
+C:\POS\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.ViewAddressUserControl.resources
+C:\POS\POS Plug-ins\Services\Customer\obj\Debug\Customer.csproj.GenerateResource.Cache
+C:\POS\POS Plug-ins\Services\Customer\obj\Debug\Customer.dll.licenses
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\Customer.dll
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\Customer.pdb
+C:\POS\POS Plug-ins\Services\Customer\obj\Debug\Customer.dll
+C:\POS\POS Plug-ins\Services\Customer\obj\Debug\Customer.pdb
+C:\POS\POS Plug-ins\Services\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+D:\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+C:\Nim Dev\POS Plug-ins\Services\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+C:\Nim Dev\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.frmReportList.resources
+C:\Nim Dev\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.Properties.Resources.resources
+C:\Nim Dev\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.AddressUserControl.resources
+C:\Nim Dev\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewShippingAddress.resources
+C:\Nim Dev\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerSearch.resources
+C:\Nim Dev\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerTransactions.resources
+C:\Nim Dev\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewCustomer.resources
+C:\Nim Dev\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmPrintSelection.resources
+C:\Nim Dev\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmShippingAddressSearch.resources
+C:\Nim Dev\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.ViewAddressUserControl.resources
+C:\Nim Dev\POS Plug-ins\Services\Customer\obj\Debug\Customer.csproj.GenerateResource.Cache
+C:\Nim Dev\POS Plug-ins\Services\Customer\obj\Debug\Customer.dll.licenses
+C:\Nim Dev\POS Plug-ins\Services\Customer\obj\Debug\Customer.dll
+C:\Nim Dev\POS Plug-ins\Services\Customer\obj\Debug\Customer.pdb
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.frmReportList.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.Properties.Resources.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.AddressUserControl.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewShippingAddress.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerSearch.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerTransactions.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewCustomer.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmPrintSelection.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmShippingAddressSearch.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.ViewAddressUserControl.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Customer.csproj.GenerateResource.Cache
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Customer.dll.licenses
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Customer.dll
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Customer.pdb
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.frmReportList.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.Properties.Resources.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.AddressUserControl.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewShippingAddress.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerSearch.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmCustomerTransactions.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmNewCustomer.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmPrintSelection.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.frmShippingAddressSearch.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Microsoft.Dynamics.Retail.Pos.Customer.WinFormsTouch.ViewAddressUserControl.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Customer.csproj.GenerateResource.Cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Customer.dll.licenses
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Customer.dll
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Customer\obj\Debug\Customer.pdb
