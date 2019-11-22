@@ -1,0 +1,7 @@
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\GiftCard\bin\Release\GiftCard.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\GiftCard\obj\Release\Microsoft.Dynamics.Retail.Pos.GiftCard.GiftCardForm.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\GiftCard\obj\Release\Microsoft.Dynamics.Retail.Pos.GiftCard.Properties.Resources.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\GiftCard\obj\Release\GiftCard.csproj.GenerateResource.Cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\GiftCard\obj\Release\GiftCard.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\GiftCard.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\GiftCard\obj\Release\GiftCard.csprojResolveAssemblyReference.cache

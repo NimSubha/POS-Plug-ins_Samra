@@ -1,0 +1,118 @@
+C:\Users\dvsdev2\Desktop\Services\EOD\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dvsdev2\Desktop\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.BlindClosedShiftsForm.resources
+C:\Users\dvsdev2\Desktop\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.CashDrawerSelectionForm.resources
+C:\Users\dvsdev2\Desktop\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ResumeShiftForm.resources
+C:\Users\dvsdev2\Desktop\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ShiftActionForm.resources
+C:\Users\dvsdev2\Desktop\Services\EOD\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\dvsdev2\Desktop\Services\EOD\obj\Debug\GenerateResource.write.1.tlog
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\EOD\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.BlindClosedShiftsForm.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.CashDrawerSelectionForm.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ResumeShiftForm.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ShiftActionForm.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\EOD\obj\Debug\GenerateResource.read.1.tlog
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\EOD\obj\Debug\GenerateResource.write.1.tlog
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\EOD\obj\Debug\EOD.dll
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\EOD\obj\Debug\EOD.pdb
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\EOD\obj\Debug\ResolveAssemblyReference.cache
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.BlindClosedShiftsForm.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.CashDrawerSelectionForm.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ResumeShiftForm.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ShiftActionForm.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\EOD\obj\Debug\GenerateResource.read.1.tlog
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\EOD\obj\Debug\GenerateResource.write.1.tlog
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\EOD\obj\Debug\EOD.dll
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\EOD\obj\Debug\EOD.pdb
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\EOD\obj\Debug\EOD.dll.licenses
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\EOD\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.BlindClosedShiftsForm.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.CashDrawerSelectionForm.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ResumeShiftForm.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ShiftActionForm.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\EOD\obj\Debug\GenerateResource.read.1.tlog
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\EOD\obj\Debug\GenerateResource.write.1.tlog
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\EOD\obj\Debug\EOD.dll.licenses
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\EOD\obj\Debug\EOD.dll
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\EOD\obj\Debug\EOD.pdb
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.BlindClosedShiftsForm.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.CashDrawerSelectionForm.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ResumeShiftForm.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ShiftActionForm.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\EOD\obj\Debug\EOD.csproj.GenerateResource.Cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\EOD\obj\Debug\EOD.dll.licenses
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\EOD\obj\Debug\EOD.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\EOD\obj\Debug\EOD.pdb
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\EOD\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.BlindClosedShiftsForm.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.CashDrawerSelectionForm.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ResumeShiftForm.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ShiftActionForm.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\EOD\obj\Debug\GenerateResource.read.1.tlog
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\EOD\obj\Debug\GenerateResource.write.1.tlog
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\EOD\obj\Debug\EOD.dll.licenses
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\EOD\obj\Debug\EOD.dll
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\EOD\obj\Debug\EOD.pdb
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\EOD.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\EOD.pdb
+D:\POS\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.BlindClosedShiftsForm.resources
+D:\POS\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.CashDrawerSelectionForm.resources
+D:\POS\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ResumeShiftForm.resources
+D:\POS\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ShiftActionForm.resources
+D:\POS\POS Plug-ins\Services\EOD\obj\Debug\EOD.csproj.GenerateResource.Cache
+D:\POS\POS Plug-ins\Services\EOD\obj\Debug\EOD.dll.licenses
+D:\POS\POS Plug-ins\Services\EOD\obj\Debug\EOD.dll
+D:\POS\POS Plug-ins\Services\EOD\obj\Debug\EOD.pdb
+D:\Retail MME\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.BlindClosedShiftsForm.resources
+D:\Retail MME\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.CashDrawerSelectionForm.resources
+D:\Retail MME\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ResumeShiftForm.resources
+D:\Retail MME\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ShiftActionForm.resources
+D:\Retail MME\POS Plug-ins\Services\EOD\obj\Debug\EOD.csproj.GenerateResource.Cache
+D:\Retail MME\POS Plug-ins\Services\EOD\obj\Debug\EOD.dll.licenses
+D:\Retail MME\POS Plug-ins\Services\EOD\obj\Debug\EOD.dll
+D:\Retail MME\POS Plug-ins\Services\EOD\obj\Debug\EOD.pdb
+D:\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.BlindClosedShiftsForm.resources
+D:\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.CashDrawerSelectionForm.resources
+D:\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ResumeShiftForm.resources
+D:\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ShiftActionForm.resources
+D:\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\EOD.csproj.GenerateResource.Cache
+D:\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\EOD.dll.licenses
+D:\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\EOD.dll
+D:\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\EOD.pdb
+D:\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\EOD.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\EOD.dll
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\EOD.pdb
+C:\POS\POS Plug-ins\Services\EOD\obj\Debug\EOD.csprojResolveAssemblyReference.cache
+C:\POS\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.BlindClosedShiftsForm.resources
+C:\POS\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.CashDrawerSelectionForm.resources
+C:\POS\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ResumeShiftForm.resources
+C:\POS\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ShiftActionForm.resources
+C:\POS\POS Plug-ins\Services\EOD\obj\Debug\EOD.csproj.GenerateResource.Cache
+C:\POS\POS Plug-ins\Services\EOD\obj\Debug\EOD.dll.licenses
+C:\POS\POS Plug-ins\Services\EOD\obj\Debug\EOD.dll
+C:\POS\POS Plug-ins\Services\EOD\obj\Debug\EOD.pdb
+C:\Nim Dev\POS Plug-ins\Services\EOD\obj\Debug\EOD.csprojResolveAssemblyReference.cache
+C:\Nim Dev\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.BlindClosedShiftsForm.resources
+C:\Nim Dev\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.CashDrawerSelectionForm.resources
+C:\Nim Dev\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ResumeShiftForm.resources
+C:\Nim Dev\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ShiftActionForm.resources
+C:\Nim Dev\POS Plug-ins\Services\EOD\obj\Debug\EOD.csproj.GenerateResource.Cache
+C:\Nim Dev\POS Plug-ins\Services\EOD\obj\Debug\EOD.dll.licenses
+C:\Nim Dev\POS Plug-ins\Services\EOD\obj\Debug\EOD.dll
+C:\Nim Dev\POS Plug-ins\Services\EOD\obj\Debug\EOD.pdb
+E:\POS Source\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\EOD.csprojResolveAssemblyReference.cache
+E:\POS Source\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.BlindClosedShiftsForm.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.CashDrawerSelectionForm.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ResumeShiftForm.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ShiftActionForm.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\EOD.csproj.GenerateResource.Cache
+E:\POS Source\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\EOD.dll.licenses
+E:\POS Source\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\EOD.dll
+E:\POS Source\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\EOD.pdb
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\EOD.csprojResolveAssemblyReference.cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.BlindClosedShiftsForm.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.CashDrawerSelectionForm.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ResumeShiftForm.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\Microsoft.Dynamics.Retail.Pos.EOD.ShiftActionForm.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\EOD.csproj.GenerateResource.Cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\EOD.dll.licenses
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\EOD\obj\Debug\EOD.dll

@@ -1,0 +1,81 @@
+C:\Users\dvsdev2\Desktop\Services\GiftCard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dvsdev2\Desktop\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.GiftCardForm.resources
+C:\Users\dvsdev2\Desktop\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.Properties.Resources.resources
+C:\Users\dvsdev2\Desktop\Services\GiftCard\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\dvsdev2\Desktop\Services\GiftCard\obj\Debug\GenerateResource.write.1.tlog
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\GiftCard\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.GiftCardForm.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.Properties.Resources.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\GiftCard\obj\Debug\GenerateResource.read.1.tlog
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\GiftCard\obj\Debug\GenerateResource.write.1.tlog
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.dll
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.pdb
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\GiftCard\obj\Debug\ResolveAssemblyReference.cache
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.GiftCardForm.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.Properties.Resources.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\GiftCard\obj\Debug\GenerateResource.read.1.tlog
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\GiftCard\obj\Debug\GenerateResource.write.1.tlog
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.dll
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.pdb
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\GiftCard\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.GiftCardForm.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.Properties.Resources.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\GiftCard\obj\Debug\GenerateResource.read.1.tlog
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\GiftCard\obj\Debug\GenerateResource.write.1.tlog
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.dll
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.pdb
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.GiftCardForm.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.Properties.Resources.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.csproj.GenerateResource.Cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.pdb
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\GiftCard\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.GiftCardForm.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.Properties.Resources.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\GiftCard\obj\Debug\GenerateResource.read.1.tlog
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\GiftCard\obj\Debug\GenerateResource.write.1.tlog
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.dll
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.pdb
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\GiftCard.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\GiftCard.pdb
+D:\POS\POS Plug-ins\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.GiftCardForm.resources
+D:\POS\POS Plug-ins\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.Properties.Resources.resources
+D:\POS\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.csproj.GenerateResource.Cache
+D:\POS\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.dll
+D:\POS\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.pdb
+D:\Retail MME\POS Plug-ins\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.GiftCardForm.resources
+D:\Retail MME\POS Plug-ins\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.Properties.Resources.resources
+D:\Retail MME\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.csproj.GenerateResource.Cache
+D:\Retail MME\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.dll
+D:\Retail MME\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.pdb
+D:\Retail Samra\POS Plug-ins\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.GiftCardForm.resources
+D:\Retail Samra\POS Plug-ins\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.Properties.Resources.resources
+D:\Retail Samra\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.csproj.GenerateResource.Cache
+D:\Retail Samra\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.dll
+D:\Retail Samra\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.pdb
+D:\Retail Samra\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\GiftCard.dll
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\GiftCard.pdb
+C:\POS\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.csprojResolveAssemblyReference.cache
+C:\POS\POS Plug-ins\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.GiftCardForm.resources
+C:\POS\POS Plug-ins\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.Properties.Resources.resources
+C:\POS\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.csproj.GenerateResource.Cache
+C:\POS\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.dll
+C:\POS\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.pdb
+C:\Nim Dev\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.csprojResolveAssemblyReference.cache
+C:\Nim Dev\POS Plug-ins\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.GiftCardForm.resources
+C:\Nim Dev\POS Plug-ins\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.Properties.Resources.resources
+C:\Nim Dev\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.csproj.GenerateResource.Cache
+C:\Nim Dev\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.dll
+C:\Nim Dev\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.pdb
+E:\POS Source\Retail Samra\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.csprojResolveAssemblyReference.cache
+E:\POS Source\Retail Samra\POS Plug-ins\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.GiftCardForm.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.Properties.Resources.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.csproj.GenerateResource.Cache
+E:\POS Source\Retail Samra\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.dll
+E:\POS Source\Retail Samra\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.pdb
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.csprojResolveAssemblyReference.cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.GiftCardForm.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\GiftCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.GiftCard.Properties.Resources.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.csproj.GenerateResource.Cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\GiftCard\obj\Debug\GiftCard.dll
