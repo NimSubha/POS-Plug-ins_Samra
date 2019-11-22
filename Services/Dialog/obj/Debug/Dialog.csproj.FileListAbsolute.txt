@@ -1,0 +1,224 @@
+C:\Users\dvsdev2\Desktop\Services\Dialog\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dvsdev2\Desktop\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.Properties.Resources.resources
+C:\Users\dvsdev2\Desktop\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmDenominations.resources
+C:\Users\dvsdev2\Desktop\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericLookup.resources
+C:\Users\dvsdev2\Desktop\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericSearch.resources
+C:\Users\dvsdev2\Desktop\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.formInventoryLookup.resources
+C:\Users\dvsdev2\Desktop\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmItemSearch.resources
+C:\Users\dvsdev2\Desktop\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournal.resources
+C:\Users\dvsdev2\Desktop\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournalSearch.resources
+C:\Users\dvsdev2\Desktop\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmPriceCheck.resources
+C:\Users\dvsdev2\Desktop\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmSmartSearch.resources
+C:\Users\dvsdev2\Desktop\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTaxOverrideSearch.resources
+C:\Users\dvsdev2\Desktop\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTenderCount.resources
+C:\Users\dvsdev2\Desktop\Services\Dialog\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\dvsdev2\Desktop\Services\Dialog\obj\Debug\GenerateResource.write.1.tlog
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Dialog\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.Properties.Resources.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmDenominations.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericLookup.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericSearch.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.formInventoryLookup.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmItemSearch.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournal.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournalSearch.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmPriceCheck.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmSmartSearch.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTaxOverrideSearch.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTenderCount.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Dialog\obj\Debug\GenerateResource.read.1.tlog
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Dialog\obj\Debug\GenerateResource.write.1.tlog
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.dll
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.pdb
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\ResolveAssemblyReference.cache
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.Properties.Resources.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmDenominations.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericLookup.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericSearch.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.formInventoryLookup.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmItemSearch.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournal.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournalSearch.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmPriceCheck.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmSmartSearch.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTaxOverrideSearch.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTenderCount.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\GenerateResource.read.1.tlog
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\GenerateResource.write.1.tlog
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.dll
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.pdb
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.Properties.Resources.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmDenominations.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericLookup.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericSearch.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.formInventoryLookup.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmItemSearch.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournal.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournalSearch.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmPriceCheck.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmSmartSearch.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTaxOverrideSearch.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTenderCount.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\GenerateResource.read.1.tlog
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\GenerateResource.write.1.tlog
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.dll
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.pdb
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.dll.licenses
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.Properties.Resources.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmDenominations.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericLookup.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericSearch.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.formInventoryLookup.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmItemSearch.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournal.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournalSearch.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmPriceCheck.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmSmartSearch.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTaxOverrideSearch.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTenderCount.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.csproj.GenerateResource.Cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.dll.licenses
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.pdb
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Dialog\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.Properties.Resources.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmDenominations.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericLookup.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericSearch.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.formInventoryLookup.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmItemSearch.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournal.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournalSearch.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmPriceCheck.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmSmartSearch.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTaxOverrideSearch.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTenderCount.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Dialog\obj\Debug\GenerateResource.read.1.tlog
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Dialog\obj\Debug\GenerateResource.write.1.tlog
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.dll.licenses
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.dll
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.pdb
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\Dialog.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\Dialog.pdb
+D:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.Properties.Resources.resources
+D:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmDenominations.resources
+D:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericLookup.resources
+D:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericSearch.resources
+D:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.formInventoryLookup.resources
+D:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmItemSearch.resources
+D:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournal.resources
+D:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournalSearch.resources
+D:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmPriceCheck.resources
+D:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmSmartSearch.resources
+D:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTaxOverrideSearch.resources
+D:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTenderCount.resources
+D:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.csproj.GenerateResource.Cache
+D:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.dll.licenses
+D:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.dll
+D:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.pdb
+D:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.csprojResolveAssemblyReference.cache
+D:\Retail MME\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.Properties.Resources.resources
+D:\Retail MME\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmDenominations.resources
+D:\Retail MME\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericLookup.resources
+D:\Retail MME\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericSearch.resources
+D:\Retail MME\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.formInventoryLookup.resources
+D:\Retail MME\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmItemSearch.resources
+D:\Retail MME\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournal.resources
+D:\Retail MME\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournalSearch.resources
+D:\Retail MME\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmPriceCheck.resources
+D:\Retail MME\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmSmartSearch.resources
+D:\Retail MME\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTaxOverrideSearch.resources
+D:\Retail MME\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTenderCount.resources
+D:\Retail MME\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.csproj.GenerateResource.Cache
+D:\Retail MME\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.dll.licenses
+D:\Retail MME\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.dll
+D:\Retail MME\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.pdb
+D:\Retail MME\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.csprojResolveAssemblyReference.cache
+D:\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.Properties.Resources.resources
+D:\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmDenominations.resources
+D:\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericLookup.resources
+D:\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericSearch.resources
+D:\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.formInventoryLookup.resources
+D:\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmItemSearch.resources
+D:\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournal.resources
+D:\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournalSearch.resources
+D:\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmPriceCheck.resources
+D:\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmSmartSearch.resources
+D:\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTaxOverrideSearch.resources
+D:\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTenderCount.resources
+D:\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.csproj.GenerateResource.Cache
+D:\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.dll.licenses
+D:\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.dll
+D:\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.pdb
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\Dialog.dll
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\Dialog.pdb
+C:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.Properties.Resources.resources
+C:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmDenominations.resources
+C:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericLookup.resources
+C:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericSearch.resources
+C:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.formInventoryLookup.resources
+C:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmItemSearch.resources
+C:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournal.resources
+C:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournalSearch.resources
+C:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmPriceCheck.resources
+C:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmSmartSearch.resources
+C:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTaxOverrideSearch.resources
+C:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTenderCount.resources
+C:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.csproj.GenerateResource.Cache
+C:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.dll.licenses
+C:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.dll
+C:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.pdb
+C:\POS\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.csprojResolveAssemblyReference.cache
+D:\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.csprojResolveAssemblyReference.cache
+C:\Nim Dev\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.Properties.Resources.resources
+C:\Nim Dev\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmDenominations.resources
+C:\Nim Dev\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericLookup.resources
+C:\Nim Dev\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericSearch.resources
+C:\Nim Dev\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.formInventoryLookup.resources
+C:\Nim Dev\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmItemSearch.resources
+C:\Nim Dev\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournal.resources
+C:\Nim Dev\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournalSearch.resources
+C:\Nim Dev\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmPriceCheck.resources
+C:\Nim Dev\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmSmartSearch.resources
+C:\Nim Dev\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTaxOverrideSearch.resources
+C:\Nim Dev\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTenderCount.resources
+C:\Nim Dev\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.csproj.GenerateResource.Cache
+C:\Nim Dev\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.dll.licenses
+C:\Nim Dev\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.dll
+C:\Nim Dev\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.pdb
+C:\Nim Dev\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.csprojResolveAssemblyReference.cache
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.csprojResolveAssemblyReference.cache
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.Properties.Resources.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmDenominations.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericLookup.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericSearch.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.formInventoryLookup.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmItemSearch.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournal.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournalSearch.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmPriceCheck.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmSmartSearch.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTaxOverrideSearch.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTenderCount.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.csproj.GenerateResource.Cache
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.dll.licenses
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.dll
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.pdb
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.csprojResolveAssemblyReference.cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.Properties.Resources.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmDenominations.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericLookup.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmGenericSearch.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.formInventoryLookup.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmItemSearch.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournal.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmJournalSearch.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmPriceCheck.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmSmartSearch.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTaxOverrideSearch.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Microsoft.Dynamics.Retail.Pos.Dialog.WinFormsTouch.frmTenderCount.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.csproj.GenerateResource.Cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.dll.licenses
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.dll
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Dialog\obj\Debug\Dialog.pdb
