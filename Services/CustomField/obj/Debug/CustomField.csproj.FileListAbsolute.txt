@@ -1,0 +1,43 @@
+C:\Users\dvsdev2\Desktop\Services\CustomField\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\CustomField\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.dll
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.pdb
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CustomField\obj\Debug\ResolveAssemblyReference.cache
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.dll
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.pdb
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CustomField\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.dll
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.pdb
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.pdb
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.csprojResolveAssemblyReference.cache
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\CustomField\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.dll
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.pdb
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\CustomField\obj\Debug\ResolveAssemblyReference.cache
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.dll
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.pdb
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\CustomField.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\CustomField.pdb
+D:\POS\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.csprojResolveAssemblyReference.cache
+D:\POS\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.dll
+D:\POS\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.pdb
+D:\Retail MME\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.csprojResolveAssemblyReference.cache
+D:\Retail MME\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.dll
+D:\Retail MME\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.pdb
+D:\Retail Samra\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.csprojResolveAssemblyReference.cache
+D:\Retail Samra\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.dll
+D:\Retail Samra\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.pdb
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\CustomField.dll
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\CustomField.pdb
+C:\POS\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.csprojResolveAssemblyReference.cache
+C:\POS\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.dll
+C:\POS\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.pdb
+C:\Nim Dev\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.csprojResolveAssemblyReference.cache
+C:\Nim Dev\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.dll
+C:\Nim Dev\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.pdb
+E:\POS Source\Retail Samra\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.csprojResolveAssemblyReference.cache
+E:\POS Source\Retail Samra\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.dll
+E:\POS Source\Retail Samra\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.pdb
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.csprojResolveAssemblyReference.cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\CustomField\obj\Debug\CustomField.dll
