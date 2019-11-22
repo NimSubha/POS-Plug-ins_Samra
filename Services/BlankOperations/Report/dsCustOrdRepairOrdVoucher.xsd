@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsCustOrdRepairOrdVoucher" targetNamespace="http://tempuri.org/dsCustOrdRepairOrdVoucher.xsd" xmlns:mstns="http://tempuri.org/dsCustOrdRepairOrdVoucher.xsd" xmlns="http://tempuri.org/dsCustOrdRepairOrdVoucher.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsCustOrdRepairOrdVoucher" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsCustOrdRepairOrdVoucher" msprop:Generator_UserDSName="dsCustOrdRepairOrdVoucher">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="HEADERINFO" msprop:Generator_TableClassName="HEADERINFODataTable" msprop:Generator_TableVarName="tableHEADERINFO" msprop:Generator_RowChangedName="HEADERINFORowChanged" msprop:Generator_TablePropName="HEADERINFO" msprop:Generator_RowDeletingName="HEADERINFORowDeleting" msprop:Generator_RowChangingName="HEADERINFORowChanging" msprop:Generator_RowEvHandlerName="HEADERINFORowChangeEventHandler" msprop:Generator_RowDeletedName="HEADERINFORowDeleted" msprop:Generator_RowClassName="HEADERINFORow" msprop:Generator_UserTableName="HEADERINFO" msprop:Generator_RowEvArgName="HEADERINFORowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ORDERNO" msprop:Generator_ColumnVarNameInTable="columnORDERNO" msprop:Generator_ColumnPropNameInRow="ORDERNO" msprop:Generator_ColumnPropNameInTable="ORDERNOColumn" msprop:Generator_UserColumnName="ORDERNO" type="xs:string" minOccurs="0" />
+              <xs:element name="ORDERDATE" msprop:Generator_ColumnVarNameInTable="columnORDERDATE" msprop:Generator_ColumnPropNameInRow="ORDERDATE" msprop:Generator_ColumnPropNameInTable="ORDERDATEColumn" msprop:Generator_UserColumnName="ORDERDATE" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="DELIVERYDATE" msprop:Generator_ColumnVarNameInTable="columnDELIVERYDATE" msprop:Generator_ColumnPropNameInRow="DELIVERYDATE" msprop:Generator_ColumnPropNameInTable="DELIVERYDATEColumn" msprop:Generator_UserColumnName="DELIVERYDATE" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="CUSTID" msprop:Generator_ColumnVarNameInTable="columnCUSTID" msprop:Generator_ColumnPropNameInRow="CUSTID" msprop:Generator_ColumnPropNameInTable="CUSTIDColumn" msprop:Generator_UserColumnName="CUSTID" type="xs:string" minOccurs="0" />
+              <xs:element name="CUSTNAME" msprop:Generator_ColumnVarNameInTable="columnCUSTNAME" msprop:Generator_ColumnPropNameInRow="CUSTNAME" msprop:Generator_ColumnPropNameInTable="CUSTNAMEColumn" msprop:Generator_UserColumnName="CUSTNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="CUSTADD" msprop:Generator_ColumnVarNameInTable="columnCUSTADD" msprop:Generator_ColumnPropNameInRow="CUSTADD" msprop:Generator_ColumnPropNameInTable="CUSTADDColumn" msprop:Generator_UserColumnName="CUSTADD" type="xs:string" minOccurs="0" />
+              <xs:element name="CUSTPHONE" msprop:Generator_ColumnVarNameInTable="columnCUSTPHONE" msprop:Generator_ColumnPropNameInRow="CUSTPHONE" msprop:Generator_ColumnPropNameInTable="CUSTPHONEColumn" msprop:Generator_UserColumnName="CUSTPHONE" type="xs:string" minOccurs="0" />
+              <xs:element name="TOTALAMOUNT" msprop:Generator_ColumnVarNameInTable="columnTOTALAMOUNT" msprop:Generator_ColumnPropNameInRow="TOTALAMOUNT" msprop:Generator_ColumnPropNameInTable="TOTALAMOUNTColumn" msprop:Generator_UserColumnName="TOTALAMOUNT" type="xs:decimal" minOccurs="0" />
+              <xs:element name="DELVERYDATEVISIBLE" msprop:Generator_ColumnVarNameInTable="columnDELVERYDATEVISIBLE" msprop:Generator_ColumnPropNameInRow="DELVERYDATEVISIBLE" msprop:Generator_ColumnPropNameInTable="DELVERYDATEVISIBLEColumn" msprop:Generator_UserColumnName="DELVERYDATEVISIBLE" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DETAILINFO" msprop:Generator_TableClassName="DETAILINFODataTable" msprop:Generator_TableVarName="tableDETAILINFO" msprop:Generator_RowChangedName="DETAILINFORowChanged" msprop:Generator_TablePropName="DETAILINFO" msprop:Generator_RowDeletingName="DETAILINFORowDeleting" msprop:Generator_RowChangingName="DETAILINFORowChanging" msprop:Generator_RowEvHandlerName="DETAILINFORowChangeEventHandler" msprop:Generator_RowDeletedName="DETAILINFORowDeleted" msprop:Generator_RowClassName="DETAILINFORow" msprop:Generator_UserTableName="DETAILINFO" msprop:Generator_RowEvArgName="DETAILINFORowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ITEMID" msprop:Generator_ColumnVarNameInTable="columnITEMID" msprop:Generator_ColumnPropNameInRow="ITEMID" msprop:Generator_ColumnPropNameInTable="ITEMIDColumn" msprop:Generator_UserColumnName="ITEMID" type="xs:string" minOccurs="0" />
+              <xs:element name="PCS" msprop:Generator_ColumnVarNameInTable="columnPCS" msprop:Generator_ColumnPropNameInRow="PCS" msprop:Generator_ColumnPropNameInTable="PCSColumn" msprop:Generator_UserColumnName="PCS" type="xs:decimal" minOccurs="0" />
+              <xs:element name="QTY" msprop:Generator_ColumnVarNameInTable="columnQTY" msprop:Generator_ColumnPropNameInRow="QTY" msprop:Generator_ColumnPropNameInTable="QTYColumn" msprop:Generator_UserColumnName="QTY" type="xs:decimal" minOccurs="0" />
+              <xs:element name="RATE" msprop:Generator_ColumnVarNameInTable="columnRATE" msprop:Generator_ColumnPropNameInRow="RATE" msprop:Generator_ColumnPropNameInTable="RATEColumn" msprop:Generator_UserColumnName="RATE" type="xs:decimal" minOccurs="0" />
+              <xs:element name="AMOUNT" msprop:Generator_ColumnVarNameInTable="columnAMOUNT" msprop:Generator_ColumnPropNameInRow="AMOUNT" msprop:Generator_ColumnPropNameInTable="AMOUNTColumn" msprop:Generator_UserColumnName="AMOUNT" type="xs:decimal" minOccurs="0" />
+              <xs:element name="MAKINGRATE" msprop:Generator_ColumnVarNameInTable="columnMAKINGRATE" msprop:Generator_ColumnPropNameInRow="MAKINGRATE" msprop:Generator_ColumnPropNameInTable="MAKINGRATEColumn" msprop:Generator_UserColumnName="MAKINGRATE" type="xs:decimal" minOccurs="0" />
+              <xs:element name="MAKINGAMOUNT" msprop:Generator_ColumnVarNameInTable="columnMAKINGAMOUNT" msprop:Generator_ColumnPropNameInRow="MAKINGAMOUNT" msprop:Generator_ColumnPropNameInTable="MAKINGAMOUNTColumn" msprop:Generator_UserColumnName="MAKINGAMOUNT" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TOTALAMOUNT" msprop:Generator_ColumnVarNameInTable="columnTOTALAMOUNT" msprop:Generator_ColumnPropNameInRow="TOTALAMOUNT" msprop:Generator_ColumnPropNameInTable="TOTALAMOUNTColumn" msprop:Generator_UserColumnName="TOTALAMOUNT" type="xs:decimal" minOccurs="0" />
+              <xs:element name="REMARKS" msprop:Generator_ColumnVarNameInTable="columnREMARKS" msprop:Generator_ColumnPropNameInRow="REMARKS" msprop:Generator_ColumnPropNameInTable="REMARKSColumn" msprop:Generator_UserColumnName="REMARKS" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="REPAIRDETAILINFO" msprop:Generator_TableClassName="REPAIRDETAILINFODataTable" msprop:Generator_TableVarName="tableREPAIRDETAILINFO" msprop:Generator_TablePropName="REPAIRDETAILINFO" msprop:Generator_RowDeletingName="REPAIRDETAILINFORowDeleting" msprop:Generator_RowChangingName="REPAIRDETAILINFORowChanging" msprop:Generator_RowEvHandlerName="REPAIRDETAILINFORowChangeEventHandler" msprop:Generator_RowDeletedName="REPAIRDETAILINFORowDeleted" msprop:Generator_UserTableName="REPAIRDETAILINFO" msprop:Generator_RowChangedName="REPAIRDETAILINFORowChanged" msprop:Generator_RowEvArgName="REPAIRDETAILINFORowChangeEvent" msprop:Generator_RowClassName="REPAIRDETAILINFORow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ITEMID" msprop:Generator_ColumnVarNameInTable="columnITEMID" msprop:Generator_ColumnPropNameInRow="ITEMID" msprop:Generator_ColumnPropNameInTable="ITEMIDColumn" msprop:Generator_UserColumnName="ITEMID" type="xs:string" minOccurs="0" />
+              <xs:element name="PCS" msprop:Generator_ColumnVarNameInTable="columnPCS" msprop:Generator_ColumnPropNameInRow="PCS" msprop:Generator_ColumnPropNameInTable="PCSColumn" msprop:Generator_UserColumnName="PCS" type="xs:decimal" minOccurs="0" />
+              <xs:element name="QTY" msprop:Generator_ColumnVarNameInTable="columnQTY" msprop:Generator_ColumnPropNameInRow="QTY" msprop:Generator_ColumnPropNameInTable="QTYColumn" msprop:Generator_UserColumnName="QTY" type="xs:decimal" minOccurs="0" />
+              <xs:element name="NETTWT" msdata:Caption="RATE" msprop:Generator_ColumnVarNameInTable="columnNETTWT" msprop:Generator_ColumnPropNameInRow="NETTWT" msprop:Generator_ColumnPropNameInTable="NETTWTColumn" msprop:Generator_UserColumnName="NETTWT" type="xs:decimal" minOccurs="0" />
+              <xs:element name="APPXVALUE" msdata:Caption="AMOUNT" msprop:Generator_ColumnVarNameInTable="columnAPPXVALUE" msprop:Generator_ColumnPropNameInRow="APPXVALUE" msprop:Generator_ColumnPropNameInTable="APPXVALUEColumn" msprop:Generator_UserColumnName="APPXVALUE" type="xs:decimal" minOccurs="0" />
+              <xs:element name="JOBTYPE" msdata:Caption="MAKINGRATE" msprop:Generator_ColumnVarNameInTable="columnJOBTYPE" msprop:Generator_ColumnPropNameInRow="JOBTYPE" msprop:Generator_ColumnPropNameInTable="JOBTYPEColumn" msprop:Generator_UserColumnName="JOBTYPE" type="xs:string" minOccurs="0" />
+              <xs:element name="JOBDETAILS" msdata:Caption="MAKINGAMOUNT" msprop:Generator_ColumnVarNameInTable="columnJOBDETAILS" msprop:Generator_ColumnPropNameInRow="JOBDETAILS" msprop:Generator_ColumnPropNameInTable="JOBDETAILSColumn" msprop:Generator_UserColumnName="JOBDETAILS" type="xs:string" minOccurs="0" />
+              <xs:element name="TOTALAMOUNT" msprop:Generator_ColumnVarNameInTable="columnTOTALAMOUNT" msprop:Generator_ColumnPropNameInRow="TOTALAMOUNT" msprop:Generator_ColumnPropNameInTable="TOTALAMOUNTColumn" msprop:Generator_UserColumnName="TOTALAMOUNT" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="REPAIRRETURNDETAILINFO" msprop:Generator_TableClassName="REPAIRRETURNDETAILINFODataTable" msprop:Generator_TableVarName="tableREPAIRRETURNDETAILINFO" msprop:Generator_TablePropName="REPAIRRETURNDETAILINFO" msprop:Generator_RowDeletingName="REPAIRRETURNDETAILINFORowDeleting" msprop:Generator_RowChangingName="REPAIRRETURNDETAILINFORowChanging" msprop:Generator_RowEvHandlerName="REPAIRRETURNDETAILINFORowChangeEventHandler" msprop:Generator_RowDeletedName="REPAIRRETURNDETAILINFORowDeleted" msprop:Generator_UserTableName="REPAIRRETURNDETAILINFO" msprop:Generator_RowChangedName="REPAIRRETURNDETAILINFORowChanged" msprop:Generator_RowEvArgName="REPAIRRETURNDETAILINFORowChangeEvent" msprop:Generator_RowClassName="REPAIRRETURNDETAILINFORow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ITEMID" msprop:Generator_ColumnVarNameInTable="columnITEMID" msprop:Generator_ColumnPropNameInRow="ITEMID" msprop:Generator_ColumnPropNameInTable="ITEMIDColumn" msprop:Generator_UserColumnName="ITEMID" type="xs:string" minOccurs="0" />
+              <xs:element name="PCS" msprop:Generator_ColumnVarNameInTable="columnPCS" msprop:Generator_ColumnPropNameInRow="PCS" msprop:Generator_ColumnPropNameInTable="PCSColumn" msprop:Generator_UserColumnName="PCS" type="xs:decimal" minOccurs="0" />
+              <xs:element name="QTY" msprop:Generator_ColumnVarNameInTable="columnQTY" msprop:Generator_ColumnPropNameInRow="QTY" msprop:Generator_ColumnPropNameInTable="QTYColumn" msprop:Generator_UserColumnName="QTY" type="xs:decimal" minOccurs="0" />
+              <xs:element name="NETTWT" msdata:Caption="RATE" msprop:Generator_ColumnVarNameInTable="columnNETTWT" msprop:Generator_ColumnPropNameInRow="NETTWT" msprop:Generator_ColumnPropNameInTable="NETTWTColumn" msprop:Generator_UserColumnName="NETTWT" type="xs:decimal" minOccurs="0" />
+              <xs:element name="APPXVALUE" msdata:Caption="AMOUNT" msprop:Generator_ColumnVarNameInTable="columnAPPXVALUE" msprop:Generator_ColumnPropNameInRow="APPXVALUE" msprop:Generator_ColumnPropNameInTable="APPXVALUEColumn" msprop:Generator_UserColumnName="APPXVALUE" type="xs:decimal" minOccurs="0" />
+              <xs:element name="JOBTYPE" msdata:Caption="MAKINGRATE" msprop:Generator_ColumnVarNameInTable="columnJOBTYPE" msprop:Generator_ColumnPropNameInRow="JOBTYPE" msprop:Generator_ColumnPropNameInTable="JOBTYPEColumn" msprop:Generator_UserColumnName="JOBTYPE" type="xs:string" minOccurs="0" />
+              <xs:element name="JOBDETAILS" msdata:Caption="MAKINGAMOUNT" msprop:Generator_ColumnVarNameInTable="columnJOBDETAILS" msprop:Generator_ColumnPropNameInRow="JOBDETAILS" msprop:Generator_ColumnPropNameInTable="JOBDETAILSColumn" msprop:Generator_UserColumnName="JOBDETAILS" type="xs:string" minOccurs="0" />
+              <xs:element name="TOTALAMOUNT" msprop:Generator_ColumnVarNameInTable="columnTOTALAMOUNT" msprop:Generator_ColumnPropNameInRow="TOTALAMOUNT" msprop:Generator_ColumnPropNameInTable="TOTALAMOUNTColumn" msprop:Generator_UserColumnName="TOTALAMOUNT" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

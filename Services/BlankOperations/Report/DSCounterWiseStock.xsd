@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSCounterWiseStock" targetNamespace="http://tempuri.org/DSCounterWiseStock.xsd" xmlns:mstns="http://tempuri.org/DSCounterWiseStock.xsd" xmlns="http://tempuri.org/DSCounterWiseStock.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="AXPOS2012ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="AXPOS2012ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Microsoft.Dynamics.Retail.Pos.BlankOperations.Properties.Settings.GlobalReference.Default.AXPOS2012ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="dtCWStockTableAdapter" GeneratorDataComponentClassName="dtCWStockTableAdapter" Name="dtCWStock" UserDataComponentName="dtCWStockTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="AXPOS2012ConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT  CAST(SUM(ISNULL(A.PDSCWQTY,0)) AS NUMERIC (28,3)) AS PCS,
+CAST(SUM(ISNULL(A.QTY,0)) AS NUMERIC (28,3)) AS Quantity,
+A.TOCOUNTER AS [Counter],
+B.ARTICLE_CODE
+,ISNULL(C.[DESCRIPTION],'')AS [DESCRIPTION], CAST(SUM(ISNULL(B.SETOF,0)) AS INT) AS SETOF
+FROM SKUTableTrans A
+	INNER JOIN INVENTTABLE B ON A.SKUNUMBER = B.ITEMID
+	LEFT OUTER JOIN Article_Master C ON B.ARTICLE_CODE = C.ARTICLE_CODE
+WHERE ISNULL(TOCOUNTER,'') &lt;&gt; ''
+AND ISNULL(ISAVAILABLE,0) = 1
+GROUP BY B.ARTICLE_CODE,C.[DESCRIPTION],A.TOCOUNTER
+ORDER BY  B.ARTICLE_CODE</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="PCS" DataSetColumn="PCS" />
+              <Mapping SourceColumn="Quantity" DataSetColumn="Quantity" />
+              <Mapping SourceColumn="Counter" DataSetColumn="Counter" />
+              <Mapping SourceColumn="ARTICLE_CODE" DataSetColumn="ARTICLE_CODE" />
+              <Mapping SourceColumn="DESCRIPTION" DataSetColumn="DESCRIPTION" />
+              <Mapping SourceColumn="SETOF" DataSetColumn="SETOF" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSCounterWiseStock" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DSCounterWiseStock" msprop:Generator_UserDSName="DSCounterWiseStock">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtCWStock" msprop:Generator_TableClassName="dtCWStockDataTable" msprop:Generator_TableVarName="tabledtCWStock" msprop:Generator_TablePropName="dtCWStock" msprop:Generator_RowDeletingName="dtCWStockRowDeleting" msprop:Generator_UserTableName="dtCWStock" msprop:Generator_RowChangingName="dtCWStockRowChanging" msprop:Generator_RowEvHandlerName="dtCWStockRowChangeEventHandler" msprop:Generator_RowDeletedName="dtCWStockRowDeleted" msprop:Generator_RowEvArgName="dtCWStockRowChangeEvent" msprop:Generator_RowChangedName="dtCWStockRowChanged" msprop:Generator_RowClassName="dtCWStockRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PCS" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPCS" msprop:Generator_ColumnPropNameInRow="PCS" msprop:Generator_ColumnPropNameInTable="PCSColumn" msprop:Generator_UserColumnName="PCS" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Quantity" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnQuantity" msprop:Generator_ColumnPropNameInRow="Quantity" msprop:Generator_ColumnPropNameInTable="QuantityColumn" msprop:Generator_UserColumnName="Quantity" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Counter" msprop:Generator_ColumnVarNameInTable="columnCounter" msprop:Generator_ColumnPropNameInRow="Counter" msprop:Generator_ColumnPropNameInTable="CounterColumn" msprop:Generator_UserColumnName="Counter" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ARTICLE_CODE" msprop:Generator_ColumnVarNameInTable="columnARTICLE_CODE" msprop:Generator_ColumnPropNameInRow="ARTICLE_CODE" msprop:Generator_ColumnPropNameInTable="ARTICLE_CODEColumn" msprop:Generator_UserColumnName="ARTICLE_CODE">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DESCRIPTION" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnDESCRIPTION" msprop:Generator_ColumnPropNameInRow="DESCRIPTION" msprop:Generator_ColumnPropNameInTable="DESCRIPTIONColumn" msprop:Generator_UserColumnName="DESCRIPTION" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="60" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SETOF" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnSETOF" msprop:Generator_ColumnPropNameInRow="SETOF" msprop:Generator_ColumnPropNameInTable="SETOFColumn" msprop:Generator_UserColumnName="SETOF" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
