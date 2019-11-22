@@ -1,0 +1,4 @@
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Price\bin\Release\Price.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Price\obj\Release\Price.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Price\obj\Release\Price.csprojResolveAssemblyReference.cache
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\Price.dll

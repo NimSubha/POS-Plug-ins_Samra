@@ -1,0 +1,6 @@
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Printing\bin\Release\Printing.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Printing\obj\Release\Printing.csprojResolveAssemblyReference.cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Printing\obj\Release\Microsoft.Dynamics.Retail.Pos.Printing.frmReportList.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Printing\obj\Release\Printing.csproj.GenerateResource.Cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Printing\obj\Release\Printing.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\Printing.dll
