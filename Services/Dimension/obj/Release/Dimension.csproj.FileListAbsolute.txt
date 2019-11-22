@@ -1,0 +1,4 @@
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Dimension\bin\Release\Dimension.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Dimension\obj\Release\Dimension.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Dimension\obj\Release\Dimension.csprojResolveAssemblyReference.cache
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\Dimension.dll

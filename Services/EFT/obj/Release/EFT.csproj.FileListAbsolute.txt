@@ -1,0 +1,7 @@
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\EFT\bin\Release\EFT.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\EFT\obj\Release\EFT.csprojResolveAssemblyReference.cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\EFT\obj\Release\EFT.csproj.ResolveComReference.cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\EFT\obj\Release\EFT.frmCard.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\EFT\obj\Release\EFT.csproj.GenerateResource.Cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\EFT\obj\Release\EFT.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\EFT.dll
