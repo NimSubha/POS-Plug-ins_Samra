@@ -1,0 +1,3 @@
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Barcodes\bin\Release\Barcode.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Barcodes\obj\Release\Barcode.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\Barcode.dll

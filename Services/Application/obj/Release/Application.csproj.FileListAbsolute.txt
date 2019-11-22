@@ -1,0 +1,4 @@
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Application\bin\Release\Application.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Application\obj\Release\Application.csprojResolveAssemblyReference.cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Application\obj\Release\Application.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\Application.dll

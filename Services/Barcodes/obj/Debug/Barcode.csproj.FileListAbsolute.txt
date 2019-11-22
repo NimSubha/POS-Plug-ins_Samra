@@ -1,0 +1,33 @@
+C:\Users\dvsdev2\Desktop\Services\Barcodes\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Barcodes\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Barcodes\obj\Debug\Barcode.dll
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Barcodes\obj\Debug\Barcode.pdb
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Barcodes\obj\Debug\ResolveAssemblyReference.cache
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Barcodes\obj\Debug\Barcode.dll
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Barcodes\obj\Debug\Barcode.pdb
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Barcodes\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Barcodes\obj\Debug\Barcode.dll
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Barcodes\obj\Debug\Barcode.pdb
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Barcodes\obj\Debug\Barcode.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Barcodes\obj\Debug\Barcode.pdb
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Barcodes\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Barcodes\obj\Debug\Barcode.dll
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Barcodes\obj\Debug\Barcode.pdb
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\Barcode.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\Barcode.pdb
+D:\POS\POS Plug-ins\Services\Barcodes\obj\Debug\Barcode.dll
+D:\POS\POS Plug-ins\Services\Barcodes\obj\Debug\Barcode.pdb
+D:\Retail MME\POS Plug-ins\Services\Barcodes\obj\Debug\Barcode.dll
+D:\Retail MME\POS Plug-ins\Services\Barcodes\obj\Debug\Barcode.pdb
+D:\Retail Samra\POS Plug-ins\Services\Barcodes\obj\Debug\Barcode.dll
+D:\Retail Samra\POS Plug-ins\Services\Barcodes\obj\Debug\Barcode.pdb
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\Barcode.dll
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\Barcode.pdb
+C:\POS\POS Plug-ins\Services\Barcodes\obj\Debug\Barcode.dll
+C:\POS\POS Plug-ins\Services\Barcodes\obj\Debug\Barcode.pdb
+C:\Nim Dev\POS Plug-ins\Services\Barcodes\obj\Debug\Barcode.dll
+C:\Nim Dev\POS Plug-ins\Services\Barcodes\obj\Debug\Barcode.pdb
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Barcodes\obj\Debug\Barcode.dll
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Barcodes\obj\Debug\Barcode.pdb
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Barcodes\obj\Debug\Barcode.csprojResolveAssemblyReference.cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Barcodes\obj\Debug\Barcode.dll
