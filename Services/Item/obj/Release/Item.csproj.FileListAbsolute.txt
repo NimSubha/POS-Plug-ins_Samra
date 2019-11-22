@@ -1,0 +1,6 @@
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Item\bin\Release\Item.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Item\obj\Release\Microsoft.Dynamics.Retail.Pos.Item.WinFormsTouch.frmSerialIdSearch.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Item\obj\Release\Item.csproj.GenerateResource.Cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Item\obj\Release\Item.dll.licenses
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Item\obj\Release\Item.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\Item.dll

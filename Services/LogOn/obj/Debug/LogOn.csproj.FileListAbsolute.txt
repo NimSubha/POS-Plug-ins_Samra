@@ -1,0 +1,38 @@
+C:\Users\dvsdev2\Desktop\Services\LogOn\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\LogOn\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.dll
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.pdb
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\LogOn\obj\Debug\ResolveAssemblyReference.cache
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.dll
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.pdb
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\LogOn\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.dll
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.pdb
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.pdb
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\LogOn\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.dll
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.pdb
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\LogOn.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\LogOn.pdb
+D:\POS\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.dll
+D:\POS\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.pdb
+D:\POS\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.csprojResolveAssemblyReference.cache
+D:\Retail MME\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.dll
+D:\Retail MME\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.pdb
+D:\Retail MME\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.csprojResolveAssemblyReference.cache
+D:\Retail Samra\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.dll
+D:\Retail Samra\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.pdb
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\LogOn.dll
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\LogOn.pdb
+C:\POS\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.dll
+C:\POS\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.pdb
+C:\Nim Dev\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.dll
+C:\Nim Dev\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.pdb
+D:\Retail Samra\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.csprojResolveAssemblyReference.cache
+E:\POS Source\Retail Samra\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.csprojResolveAssemblyReference.cache
+E:\POS Source\Retail Samra\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.dll
+E:\POS Source\Retail Samra\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.pdb
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.csprojResolveAssemblyReference.cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.dll
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\LogOn\obj\Debug\LogOn.pdb

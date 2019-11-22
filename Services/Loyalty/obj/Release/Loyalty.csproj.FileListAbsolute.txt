@@ -1,0 +1,3 @@
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Loyalty\bin\Release\Loyalty.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Loyalty\obj\Release\Loyalty.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\Loyalty.dll

@@ -1,0 +1,35 @@
+C:\Users\dvsdev2\Desktop\Services\Loyalty\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Loyalty\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.dll
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.pdb
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Loyalty\obj\Debug\ResolveAssemblyReference.cache
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.dll
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.pdb
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Loyalty\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.dll
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.pdb
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.pdb
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Loyalty\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.dll
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.pdb
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\Loyalty.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\Loyalty.pdb
+D:\POS\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.dll
+D:\POS\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.pdb
+D:\Retail MME\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.dll
+D:\Retail MME\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.pdb
+D:\Retail Samra\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.dll
+D:\Retail Samra\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.pdb
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\Loyalty.dll
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\Loyalty.pdb
+C:\POS\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.dll
+C:\POS\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.pdb
+C:\Nim Dev\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.dll
+C:\Nim Dev\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.pdb
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.dll
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.pdb
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.csprojResolveAssemblyReference.cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.csprojResolveAssemblyReference.cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.dll
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Loyalty\obj\Debug\Loyalty.pdb
