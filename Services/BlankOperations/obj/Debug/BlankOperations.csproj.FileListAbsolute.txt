@@ -1,0 +1,694 @@
+C:\Users\dvsdev2\Desktop\Services\BlankOperations\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\BlankOperations\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.pdb
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Properties.Resources.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGSSInput.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\BlankOperations\obj\Debug\GenerateResource.read.1.tlog
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\BlankOperations\obj\Debug\GenerateResource.write.1.tlog
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.ItemSaleControl.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.OGPOperationsControl.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll.licenses
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmCustomerOrder.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmOrderDetails.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\ResolveAssemblyReference.cache
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.ItemSaleControl.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.OGPOperationsControl.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmCustomerOrder.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Properties.Resources.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGSSInput.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmOrderDetails.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\GenerateResource.read.1.tlog
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\GenerateResource.write.1.tlog
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll.licenses
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.pdb
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.ItemSaleControl.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.OGPOperationsControl.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmCustomerOrder.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Properties.Resources.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGSSInput.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmOrderDetails.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\GenerateResource.read.1.tlog
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\GenerateResource.write.1.tlog
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll.licenses
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.pdb
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOrderDetailsTest.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOrderSample.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSKURelease.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmSubOrderDetails.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustomFieldCalculations.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.CustomerOrderDetails.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_OldGoldPurchase.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.TransReportFrm.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\RdlCompile.cache
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\RdlCompile.compiled
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmRepair.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmRepairDetail.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmRepairSubDetail.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOptionSelectionExchangeBuyback.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSKUDetails.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmStockTransfer.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCounterWiseStkReport.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmRepairReturn.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmSaleInv.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmDisplayMetalRate.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_GSSInstalmentReceipt.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_ProductAdvanceReceipt.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmEstimationReport.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmFGReceived.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmFGTransferred.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmGSSAcOpenning.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrder.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrderReceive.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmExtendedPurchExch.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmTransOrderCreateRpt.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.csprojResolveAssemblyReference.cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.ItemSaleControl.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.OGPOperationsControl.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmCustomerOrder.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Properties.Resources.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCounterWiseStkReport.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmEstimationReport.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_GSSInstalmentReceipt.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_OldGoldPurchase.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_ProductAdvanceReceipt.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmSaleInv.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmTransOrderCreateRpt.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.TransReportFrm.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.CustomerOrderDetails.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustomFieldCalculations.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmDisplayMetalRate.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmExtendedPurchExch.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmFGReceived.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmFGTransferred.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmGSSAcOpenning.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGSSInput.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOptionSelectionExchangeBuyback.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmOrderDetails.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOrderDetailsTest.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOrderSample.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmRepair.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmRepairDetail.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmRepairReturn.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmRepairSubDetail.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSKUDetails.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSKURelease.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmStockTransfer.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmSubOrderDetails.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrder.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrderReceive.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.csproj.GenerateResource.Cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll.licenses
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\RdlCompile.cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\RdlCompile.compiled
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.pdb
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCounterWiseStkDtlReport.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.SKUUnlock.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCashRegisterrpt.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmCashRegister.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrderPrint.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.ItemSaleControl.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.OGPOperationsControl.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmCustomerOrder.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Properties.Resources.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCashRegisterrpt.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCounterWiseStkDtlReport.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCounterWiseStkReport.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmEstimationReport.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_GSSInstalmentReceipt.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_OldGoldPurchase.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_ProductAdvanceReceipt.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmSaleInv.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmTransOrderCreateRpt.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.TransReportFrm.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.CustomerOrderDetails.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmCashRegister.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustomFieldCalculations.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmDisplayMetalRate.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmExtendedPurchExch.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmFGReceived.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmFGTransferred.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmGSSAcOpenning.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGSSInput.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOptionSelectionExchangeBuyback.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmOrderDetails.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOrderDetailsTest.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOrderSample.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmRepair.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmRepairDetail.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmRepairReturn.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmRepairSubDetail.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSKUDetails.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSKURelease.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmStockTransfer.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmSubOrderDetails.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrder.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrderPrint.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrderReceive.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.SKUUnlock.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\GenerateResource.read.1.tlog
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\GenerateResource.write.1.tlog
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll.licenses
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\RdlCompile.cache
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\RdlCompile.compiled
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.pdb
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGSSMaturity.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\ResolveAssemblyReference.cache
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.ItemSaleControl.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.OGPOperationsControl.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmCustomerOrder.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Properties.Resources.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCashRegisterrpt.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCounterWiseStkDtlReport.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCounterWiseStkReport.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmEstimationReport.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_GSSInstalmentReceipt.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_OldGoldPurchase.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_ProductAdvanceReceipt.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmSaleInv.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmTransOrderCreateRpt.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.TransReportFrm.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.CustomerOrderDetails.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmCashRegister.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustomFieldCalculations.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmDisplayMetalRate.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmExtendedPurchExch.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmFGReceived.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmFGTransferred.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmGSSAcOpenning.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGSSInput.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGSSMaturity.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOptionSelectionExchangeBuyback.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmOrderDetails.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOrderDetailsTest.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOrderSample.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmRepair.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmRepairDetail.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmRepairReturn.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmRepairSubDetail.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSKUDetails.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSKURelease.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmStockTransfer.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmSubOrderDetails.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrder.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrderPrint.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrderReceive.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.SKUUnlock.resources
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\GenerateResource.read.1.tlog
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\GenerateResource.write.1.tlog
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll.licenses
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\RdlCompile.cache
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\RdlCompile.compiled
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll
+D:\RipanH_Job\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.pdb
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmAddLocalCustomer.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.csprojResolveAssemblyReference.cache
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.ItemSaleControl.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.OGPOperationsControl.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmCustomerOrder.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Properties.Resources.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCashRegisterrpt.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCounterWiseStkDtlReport.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCounterWiseStkReport.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmEstimationReport.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmOGReportrpt.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_GSSAccStaement.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_GSSInstalmentReceipt.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_OldGoldPurchase.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_ProductAdvanceReceipt.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_SalesAndSalesReturn.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_SKUBookingReport.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_SKUCounterMovement.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmSaleInv.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmTransOrderCreateRpt.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.TransReportFrm.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.CustomerOrderDetails.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmAddLocalCustomer.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmCashRegister.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustomFieldCalculations.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmDisplayMetalRate.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmExtendedPurchExch.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmFGReceived.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmFGTransferred.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmGSSAccStatment.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmGSSAcOpenning.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGSSInput.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGSSMaturity.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOGReport.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOptionSelectionExchangeBuyback.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmOrderDetails.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOrderDetailsTest.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOrderSample.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmRepair.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmRepairDetail.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmRepairReturn.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmRepairSubDetail.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSKUDetails.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSKURelease.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmStockTransfer.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmSubOrderDetails.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrder.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrderPrint.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrderReceive.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.SKUUnlock.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.csproj.GenerateResource.Cache
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll.licenses
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\RdlCompile.cache
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\RdlCompile.compiled
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\BlankOperations.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\BlankOperations.pdb
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.pdb
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSalesInfoCode.resources
+D:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmCustomerFootfall.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.csprojResolveAssemblyReference.cache
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.ItemSaleControl.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.OGPOperationsControl.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmCustomerOrder.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Properties.Resources.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCashRegisterrpt.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCounterWiseStkDtlReport.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCounterWiseStkReport.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmEstimationReport.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmOGReportrpt.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_GSSAccStaement.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_GSSInstalmentReceipt.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_OldGoldPurchase.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_ProductAdvanceReceipt.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_SalesAndSalesReturn.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_SKUBookingReport.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_SKUCounterMovement.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmSaleInv.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmTransOrderCreateRpt.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.TransReportFrm.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.CustomerOrderDetails.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmAddLocalCustomer.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmCashRegister.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmCustomerFootfall.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustomFieldCalculations.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmDisplayMetalRate.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmExtendedPurchExch.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmFGReceived.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmFGTransferred.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmGSSAccStatment.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmGSSAcOpenning.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGSSInput.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGSSMaturity.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOGReport.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOptionSelectionExchangeBuyback.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmOrderDetails.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOrderDetailsTest.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOrderSample.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmRepair.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmRepairDetail.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmRepairReturn.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmRepairSubDetail.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSalesInfoCode.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSKUDetails.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSKURelease.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmStockTransfer.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmSubOrderDetails.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrder.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrderPrint.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrderReceive.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.SKUUnlock.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.csproj.GenerateResource.Cache
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll.licenses
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\RdlCompile.cache
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\RdlCompile.compiled
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.pdb
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.RdlcViewer.resources
+D:\Retail MME\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGeneralSearch.resources
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\BlankOperations.dll.config
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.csprojResolveAssemblyReference.cache
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.ItemSaleControl.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.OGPOperationsControl.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmCustomerOrder.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Properties.Resources.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCashRegisterrpt.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCounterWiseStkDtlReport.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCounterWiseStkReport.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmEstimationReport.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmOGReportrpt.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_GSSAccStaement.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_GSSInstalmentReceipt.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_OldGoldPurchase.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_ProductAdvanceReceipt.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_SalesAndSalesReturn.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_SKUBookingReport.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_SKUCounterMovement.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmSaleInv.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmTransOrderCreateRpt.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.TransReportFrm.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.CustomerOrderDetails.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmAddLocalCustomer.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmCashRegister.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmCustomerFootfall.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustomFieldCalculations.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmDisplayMetalRate.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmExtendedPurchExch.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmFGReceived.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmFGTransferred.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGeneralSearch.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmGSSAccStatment.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmGSSAcOpenning.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGSSInput.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGSSMaturity.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOGReport.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOptionSelectionExchangeBuyback.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmOrderDetails.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmRepair.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmRepairDetail.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmRepairReturn.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmRepairSubDetail.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSalesInfoCode.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSKUDetails.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSKURelease.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmStockTransfer.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmSubOrderDetails.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrder.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrderPrint.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrderReceive.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.RdlcViewer.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.SKUUnlock.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.csproj.GenerateResource.Cache
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll.licenses
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\RdlCompile.cache
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\RdlCompile.compiled
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.pdb
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmStoneAdvance.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustOrderSample.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustOrderSampleReturn.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOrderSketch.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustOrderSampleStoneStone.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOptionSelectionGSSorCustomerOrder.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSearchOrder.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.CustomerDepositSKUDetails.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOrderAdvOrNot.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmCustOrderPaySchedule.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSalesSplDiscInfo.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmLanguageForInvoice.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.csprojResolveAssemblyReference.cache
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.ItemSaleControl.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.OGPOperationsControl.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmCustomerOrder.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Properties.Resources.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCashRegisterrpt.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCounterWiseStkDtlReport.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCounterWiseStkReport.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmEstimationReport.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmOGReportrpt.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_GSSAccStaement.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_GSSInstalmentReceipt.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_OldGoldPurchase.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_ProductAdvanceReceipt.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_SalesAndSalesReturn.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_SKUBookingReport.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_SKUCounterMovement.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmSaleInv.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmTransOrderCreateRpt.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.TransReportFrm.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmLanguageForInvoice.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOrderAdvOrNot.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmCustOrderPaySchedule.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSalesSplDiscInfo.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.CustomerDepositSKUDetails.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.CustomerOrderDetails.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmAddLocalCustomer.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmCashRegister.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmCustomerFootfall.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustomFieldCalculations.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustOrderSample.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustOrderSampleReturn.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustOrderSampleStoneStone.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmDisplayMetalRate.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmExtendedPurchExch.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmFGReceived.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmFGTransferred.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGeneralSearch.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmGSSAccStatment.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmGSSAcOpenning.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGSSInput.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGSSMaturity.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOGReport.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOptionSelectionExchangeBuyback.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOptionSelectionGSSorCustomerOrder.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmOrderDetails.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOrderSketch.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmRepair.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmRepairDetail.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmRepairReturn.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmRepairSubDetail.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSalesInfoCode.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSearchOrder.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSKUDetails.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSKURelease.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmStockTransfer.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmStoneAdvance.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmSubOrderDetails.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrder.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrderPrint.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrderReceive.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.RdlcViewer.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.SKUUnlock.resources
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.csproj.GenerateResource.Cache
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll.licenses
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\RdlCompile.cache
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\RdlCompile.compiled
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\BlankOperations.dll.config
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\BlankOperations.dll
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\BlankOperations.pdb
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll
+C:\POS\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.pdb
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustomerFeedBack.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmStockCount.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.csprojResolveAssemblyReference.cache
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.ItemSaleControl.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.OGPOperationsControl.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmCustomerOrder.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Properties.Resources.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCashRegisterrpt.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCounterWiseStkDtlReport.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCounterWiseStkReport.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmEstimationReport.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmOGReportrpt.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_GSSAccStaement.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_GSSInstalmentReceipt.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_OldGoldPurchase.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_ProductAdvanceReceipt.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_SalesAndSalesReturn.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_SKUBookingReport.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_SKUCounterMovement.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmSaleInv.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmTransOrderCreateRpt.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.TransReportFrm.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmStockCount.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustomerFeedBack.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmLanguageForInvoice.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOrderAdvOrNot.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmCustOrderPaySchedule.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSalesSplDiscInfo.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.CustomerDepositSKUDetails.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.CustomerOrderDetails.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmAddLocalCustomer.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmCashRegister.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmCustomerFootfall.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustomFieldCalculations.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustOrderSample.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustOrderSampleReturn.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustOrderSampleStoneStone.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmDisplayMetalRate.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmExtendedPurchExch.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmFGReceived.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmFGTransferred.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGeneralSearch.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmGSSAccStatment.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmGSSAcOpenning.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGSSInput.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGSSMaturity.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOGReport.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOptionSelectionExchangeBuyback.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOptionSelectionGSSorCustomerOrder.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmOrderDetails.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOrderSketch.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmRepair.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmRepairDetail.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmRepairReturn.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmRepairSubDetail.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSalesInfoCode.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSearchOrder.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSKUDetails.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSKURelease.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmStockTransfer.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmStoneAdvance.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmSubOrderDetails.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrder.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrderPrint.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrderReceive.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.RdlcViewer.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.SKUUnlock.resources
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.csproj.GenerateResource.Cache
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll.licenses
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\RdlCompile.cache
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\RdlCompile.compiled
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll
+C:\Nim Dev\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.pdb
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmSaleInvControlCopy.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmSaleInvAccountsCopy.resources
+D:\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTotalValueChanges.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.csprojResolveAssemblyReference.cache
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.ItemSaleControl.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.OGPOperationsControl.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmCustomerOrder.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Properties.Resources.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmSaleInvControlCopy.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmSaleInvAccountsCopy.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCashRegisterrpt.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCounterWiseStkDtlReport.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCounterWiseStkReport.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmEstimationReport.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmOGReportrpt.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_GSSAccStaement.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_GSSInstalmentReceipt.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_OldGoldPurchase.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_ProductAdvanceReceipt.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_SalesAndSalesReturn.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_SKUBookingReport.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_SKUCounterMovement.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmSaleInv.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmTransOrderCreateRpt.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.TransReportFrm.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmStockCount.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustomerFeedBack.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmLanguageForInvoice.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOrderAdvOrNot.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmCustOrderPaySchedule.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSalesSplDiscInfo.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.CustomerDepositSKUDetails.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.CustomerOrderDetails.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmAddLocalCustomer.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmCashRegister.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmCustomerFootfall.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustomFieldCalculations.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustOrderSample.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustOrderSampleReturn.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustOrderSampleStoneStone.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmDisplayMetalRate.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmExtendedPurchExch.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmFGReceived.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmFGTransferred.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGeneralSearch.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmGSSAccStatment.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmGSSAcOpenning.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGSSInput.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGSSMaturity.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOGReport.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOptionSelectionExchangeBuyback.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOptionSelectionGSSorCustomerOrder.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmOrderDetails.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOrderSketch.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmRepair.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmRepairDetail.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmRepairReturn.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmRepairSubDetail.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSalesInfoCode.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSearchOrder.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSKUDetails.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSKURelease.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmStockTransfer.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmStoneAdvance.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmSubOrderDetails.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTotalValueChanges.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrder.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrderPrint.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrderReceive.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.RdlcViewer.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.SKUUnlock.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.csproj.GenerateResource.Cache
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll.licenses
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\RdlCompile.cache
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\RdlCompile.compiled
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll
+E:\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.pdb
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.csprojResolveAssemblyReference.cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.ItemSaleControl.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.OGPOperationsControl.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmCustomerOrder.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Properties.Resources.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmSaleInvControlCopy.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmSaleInvAccountsCopy.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCashRegisterrpt.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCounterWiseStkDtlReport.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmCounterWiseStkReport.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmEstimationReport.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmOGReportrpt.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_GSSAccStaement.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_GSSInstalmentReceipt.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_OldGoldPurchase.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_ProductAdvanceReceipt.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_SalesAndSalesReturn.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_SKUBookingReport.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmR_SKUCounterMovement.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmSaleInv.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.frmTransOrderCreateRpt.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.Report.TransReportFrm.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmStockCount.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustomerFeedBack.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmLanguageForInvoice.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOrderAdvOrNot.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmCustOrderPaySchedule.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSalesSplDiscInfo.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.CustomerDepositSKUDetails.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.CustomerOrderDetails.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmAddLocalCustomer.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmCashRegister.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmCustomerFootfall.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustomFieldCalculations.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustOrderSample.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustOrderSampleReturn.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmCustOrderSampleStoneStone.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmDisplayMetalRate.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmExtendedPurchExch.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmFGReceived.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmFGTransferred.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGeneralSearch.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmGSSAccStatment.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmGSSAcOpenning.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGSSInput.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmGSSMaturity.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOGReport.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOptionSelectionExchangeBuyback.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOptionSelectionGSSorCustomerOrder.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmOrderDetails.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmOrderSketch.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.frmRepair.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmRepairDetail.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmRepairReturn.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmRepairSubDetail.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSalesInfoCode.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSearchOrder.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSKUDetails.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmSKURelease.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmStockTransfer.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmStoneAdvance.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.WinFormsTouch.frmSubOrderDetails.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTotalValueChanges.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrder.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrderPrint.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.frmTransferOrderReceive.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.RdlcViewer.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\Microsoft.Dynamics.Retail.Pos.BlankOperations.WinFormsTouch.SKUUnlock.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.csproj.GenerateResource.Cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll.licenses
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\RdlCompile.cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\RdlCompile.compiled
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.dll
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\BlankOperations\obj\Debug\BlankOperations.pdb
