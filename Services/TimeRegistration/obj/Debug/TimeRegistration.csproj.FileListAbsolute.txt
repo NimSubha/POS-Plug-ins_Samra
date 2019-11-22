@@ -1,0 +1,34 @@
+C:\Users\dvsdev2\Desktop\Services\TimeRegistration\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\TimeRegistration\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\TimeRegistration\obj\Debug\TimeRegistration.dll
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\TimeRegistration\obj\Debug\TimeRegistration.pdb
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\TimeRegistration\obj\Debug\ResolveAssemblyReference.cache
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\TimeRegistration\obj\Debug\TimeRegistration.dll
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\TimeRegistration\obj\Debug\TimeRegistration.pdb
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\TimeRegistration\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\TimeRegistration\obj\Debug\TimeRegistration.dll
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\TimeRegistration\obj\Debug\TimeRegistration.pdb
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\TimeRegistration\obj\Debug\TimeRegistration.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\TimeRegistration\obj\Debug\TimeRegistration.pdb
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\TimeRegistration\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\TimeRegistration\obj\Debug\TimeRegistration.dll
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\TimeRegistration\obj\Debug\TimeRegistration.pdb
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\TimeRegistration.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\TimeRegistration.pdb
+D:\POS\POS Plug-ins\Services\TimeRegistration\obj\Debug\TimeRegistration.dll
+D:\POS\POS Plug-ins\Services\TimeRegistration\obj\Debug\TimeRegistration.pdb
+D:\Retail MME\POS Plug-ins\Services\TimeRegistration\obj\Debug\TimeRegistration.dll
+D:\Retail MME\POS Plug-ins\Services\TimeRegistration\obj\Debug\TimeRegistration.pdb
+D:\Retail Samra\POS Plug-ins\Services\TimeRegistration\obj\Debug\TimeRegistration.dll
+D:\Retail Samra\POS Plug-ins\Services\TimeRegistration\obj\Debug\TimeRegistration.pdb
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\TimeRegistration.dll
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\TimeRegistration.pdb
+C:\POS\POS Plug-ins\Services\TimeRegistration\obj\Debug\TimeRegistration.dll
+C:\POS\POS Plug-ins\Services\TimeRegistration\obj\Debug\TimeRegistration.pdb
+C:\Nim Dev\POS Plug-ins\Services\TimeRegistration\obj\Debug\TimeRegistration.dll
+C:\Nim Dev\POS Plug-ins\Services\TimeRegistration\obj\Debug\TimeRegistration.pdb
+E:\POS Source\Retail Samra\POS Plug-ins\Services\TimeRegistration\obj\Debug\TimeRegistration.dll
+E:\POS Source\Retail Samra\POS Plug-ins\Services\TimeRegistration\obj\Debug\TimeRegistration.pdb
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\TimeRegistration\obj\Debug\TimeRegistration.csprojResolveAssemblyReference.cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\TimeRegistration\obj\Debug\TimeRegistration.dll
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\TimeRegistration\obj\Debug\TimeRegistration.pdb
