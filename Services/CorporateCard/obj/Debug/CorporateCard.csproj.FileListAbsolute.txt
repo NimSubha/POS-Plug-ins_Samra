@@ -1,0 +1,90 @@
+C:\Users\dvsdev2\Desktop\Services\CorporateCard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dvsdev2\Desktop\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmInformation.resources
+C:\Users\dvsdev2\Desktop\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmTenderRestriction.resources
+C:\Users\dvsdev2\Desktop\Services\CorporateCard\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\dvsdev2\Desktop\Services\CorporateCard\obj\Debug\GenerateResource.write.1.tlog
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\CorporateCard\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmInformation.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmTenderRestriction.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\CorporateCard\obj\Debug\GenerateResource.read.1.tlog
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\CorporateCard\obj\Debug\GenerateResource.write.1.tlog
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.dll
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.pdb
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CorporateCard\obj\Debug\ResolveAssemblyReference.cache
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmInformation.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmTenderRestriction.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CorporateCard\obj\Debug\GenerateResource.read.1.tlog
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CorporateCard\obj\Debug\GenerateResource.write.1.tlog
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.dll
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.pdb
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.dll.licenses
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CorporateCard\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmInformation.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmTenderRestriction.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CorporateCard\obj\Debug\GenerateResource.read.1.tlog
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CorporateCard\obj\Debug\GenerateResource.write.1.tlog
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.dll.licenses
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.dll
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.pdb
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmInformation.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmTenderRestriction.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.csproj.GenerateResource.Cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.dll.licenses
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.pdb
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\CorporateCard\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmInformation.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmTenderRestriction.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\CorporateCard\obj\Debug\GenerateResource.read.1.tlog
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\CorporateCard\obj\Debug\GenerateResource.write.1.tlog
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.dll.licenses
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.dll
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.pdb
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\CorporateCard.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\CorporateCard.pdb
+D:\POS\POS Plug-ins\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmInformation.resources
+D:\POS\POS Plug-ins\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmTenderRestriction.resources
+D:\POS\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.csproj.GenerateResource.Cache
+D:\POS\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.dll.licenses
+D:\POS\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.dll
+D:\POS\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.pdb
+D:\Retail MME\POS Plug-ins\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmInformation.resources
+D:\Retail MME\POS Plug-ins\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmTenderRestriction.resources
+D:\Retail MME\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.csproj.GenerateResource.Cache
+D:\Retail MME\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.dll.licenses
+D:\Retail MME\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.dll
+D:\Retail MME\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.pdb
+D:\Retail Samra\POS Plug-ins\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmInformation.resources
+D:\Retail Samra\POS Plug-ins\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmTenderRestriction.resources
+D:\Retail Samra\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.csproj.GenerateResource.Cache
+D:\Retail Samra\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.dll.licenses
+D:\Retail Samra\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.dll
+D:\Retail Samra\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.pdb
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\CorporateCard.dll
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\CorporateCard.pdb
+C:\POS\POS Plug-ins\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmInformation.resources
+C:\POS\POS Plug-ins\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmTenderRestriction.resources
+C:\POS\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.csproj.GenerateResource.Cache
+C:\POS\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.dll.licenses
+C:\POS\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.dll
+C:\POS\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.pdb
+C:\Nim Dev\POS Plug-ins\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmInformation.resources
+C:\Nim Dev\POS Plug-ins\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmTenderRestriction.resources
+C:\Nim Dev\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.csproj.GenerateResource.Cache
+C:\Nim Dev\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.dll.licenses
+C:\Nim Dev\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.dll
+C:\Nim Dev\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.pdb
+E:\POS Source\Retail Samra\POS Plug-ins\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmInformation.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmTenderRestriction.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.csproj.GenerateResource.Cache
+E:\POS Source\Retail Samra\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.dll.licenses
+E:\POS Source\Retail Samra\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.dll
+E:\POS Source\Retail Samra\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.pdb
+E:\POS Source\Retail Samra\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.csprojResolveAssemblyReference.cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.csprojResolveAssemblyReference.cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmInformation.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\CorporateCard\obj\Debug\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmTenderRestriction.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.csproj.GenerateResource.Cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.dll.licenses
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.dll
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\CorporateCard\obj\Debug\CorporateCard.pdb

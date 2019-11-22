@@ -1,0 +1,7 @@
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\CreditMemo\bin\Release\CreditMemo.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\CreditMemo\obj\Release\Microsoft.Dynamics.Retail.Pos.CreditMemo.Properties.Resources.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\CreditMemo\obj\Release\Microsoft.Dynamics.Retail.Pos.CreditMemo.WinFormsTouch.frmPayCreditMemo.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\CreditMemo\obj\Release\CreditMemo.csproj.GenerateResource.Cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\CreditMemo\obj\Release\CreditMemo.dll.licenses
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\CreditMemo\obj\Release\CreditMemo.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\CreditMemo.dll

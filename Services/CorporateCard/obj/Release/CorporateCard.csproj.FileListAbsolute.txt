@@ -1,0 +1,7 @@
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\CorporateCard\bin\Release\CorporateCard.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\CorporateCard\obj\Release\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmInformation.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\CorporateCard\obj\Release\Microsoft.Dynamics.Retail.Pos.CorporateCard.frmTenderRestriction.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\CorporateCard\obj\Release\CorporateCard.csproj.GenerateResource.Cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\CorporateCard\obj\Release\CorporateCard.dll.licenses
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\CorporateCard\obj\Release\CorporateCard.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\CorporateCard.dll
