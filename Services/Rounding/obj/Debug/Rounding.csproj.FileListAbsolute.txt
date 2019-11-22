@@ -1,0 +1,35 @@
+C:\Users\dvsdev2\Desktop\Services\Rounding\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Rounding\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.dll
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.pdb
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Rounding\obj\Debug\ResolveAssemblyReference.cache
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.dll
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.pdb
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Rounding\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.dll
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.pdb
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.pdb
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Rounding\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.dll
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.pdb
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\Rounding.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\Rounding.pdb
+D:\POS\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.dll
+D:\POS\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.pdb
+D:\Retail MME\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.dll
+D:\Retail MME\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.pdb
+D:\Retail Samra\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.dll
+D:\Retail Samra\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.pdb
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\Rounding.dll
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\Rounding.pdb
+C:\POS\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.dll
+C:\POS\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.pdb
+C:\Nim Dev\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.dll
+C:\Nim Dev\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.pdb
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.dll
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.pdb
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.csprojResolveAssemblyReference.cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.csprojResolveAssemblyReference.cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.dll
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Rounding\obj\Debug\Rounding.pdb

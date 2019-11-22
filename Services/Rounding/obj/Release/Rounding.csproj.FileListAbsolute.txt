@@ -1,0 +1,4 @@
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Rounding\bin\Release\Rounding.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Rounding\obj\Release\Rounding.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\Rounding.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Rounding\obj\Release\Rounding.csprojResolveAssemblyReference.cache

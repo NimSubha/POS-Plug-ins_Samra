@@ -1,0 +1,7 @@
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\SalesInvoice\bin\Release\SalesInvoice.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\SalesInvoice\obj\Release\Microsoft.Dynamics.Retail.Pos.SalesInvoice.WinFormsTouch.frmGetSalesInvoice.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\SalesInvoice\obj\Release\SalesInvoice.csproj.GenerateResource.Cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\SalesInvoice\obj\Release\SalesInvoice.dll.licenses
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\SalesInvoice\obj\Release\SalesInvoice.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\SalesInvoice\obj\Release\SalesInvoice.csprojResolveAssemblyReference.cache
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\SalesInvoice.dll
