@@ -1,0 +1,9 @@
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\StockCount\bin\Release\StockCount.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\StockCount\bin\Release\Application.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\StockCount\obj\Release\StockCount.csprojResolveAssemblyReference.cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\StockCount\obj\Release\Microsoft.Dynamics.Retail.Pos.StockCount.frmStockCountJournals.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\StockCount\obj\Release\Microsoft.Dynamics.Retail.Pos.StockCount.frmStockCount.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\StockCount\obj\Release\StockCount.csproj.GenerateResource.Cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\StockCount\obj\Release\StockCount.dll.licenses
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\StockCount\obj\Release\StockCount.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\StockCount.dll
