@@ -1,0 +1,300 @@
+C:\Users\dvsdev2\Desktop\Services\InteractionDefaults\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dvsdev2\Desktop\Services\InteractionDefaults\obj\Debug\LSRetailPosis.ButtonGrid.frmBarcodeSelect.resources
+C:\Users\dvsdev2\Desktop\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.Properties.Resources.resources
+C:\Users\dvsdev2\Desktop\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnForm.resources
+C:\Users\dvsdev2\Desktop\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnScanForm.resources
+C:\Users\dvsdev2\Desktop\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductDetailsForm.resources
+C:\Users\dvsdev2\Desktop\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductInformationForm.resources
+C:\Users\dvsdev2\Desktop\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogOnForm.resources
+C:\Users\dvsdev2\Desktop\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmBarcodeSelect.resources
+C:\Users\dvsdev2\Desktop\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmDimensions.resources
+C:\Users\dvsdev2\Desktop\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmInput.resources
+C:\Users\dvsdev2\Desktop\Services\InteractionDefaults\obj\Debug\LSRetailPosis.POSProcesses.frmPayCash.resources
+C:\Users\dvsdev2\Desktop\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCurrency.resources
+C:\Users\dvsdev2\Desktop\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCustomerAccount.resources
+C:\Users\dvsdev2\Desktop\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmReturnTransaction.resources
+C:\Users\dvsdev2\Desktop\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ManagerAccessForm.resources
+C:\Users\dvsdev2\Desktop\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogbookForm.resources
+C:\Users\dvsdev2\Desktop\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.RegisterTimeForm.resources
+C:\Users\dvsdev2\Desktop\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ViewTimeClockEntriesForm.resources
+C:\Users\dvsdev2\Desktop\Services\InteractionDefaults\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\dvsdev2\Desktop\Services\InteractionDefaults\obj\Debug\GenerateResource.write.1.tlog
+E:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\InteractionDefaults\InteractionDefaults.dll
+E:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\InteractionDefaults\InteractionDefaults.pdb
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\InteractionDefaults\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\InteractionDefaults\obj\Debug\LSRetailPosis.ButtonGrid.frmBarcodeSelect.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.Properties.Resources.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnForm.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnScanForm.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductDetailsForm.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductInformationForm.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogOnForm.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmBarcodeSelect.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmDimensions.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmInput.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\InteractionDefaults\obj\Debug\LSRetailPosis.POSProcesses.frmPayCash.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCurrency.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCustomerAccount.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmReturnTransaction.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ManagerAccessForm.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogbookForm.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.RegisterTimeForm.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ViewTimeClockEntriesForm.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\InteractionDefaults\obj\Debug\GenerateResource.read.1.tlog
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\InteractionDefaults\obj\Debug\GenerateResource.write.1.tlog
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.dll
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.pdb
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\ResolveAssemblyReference.cache
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\LSRetailPosis.ButtonGrid.frmBarcodeSelect.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.Properties.Resources.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnForm.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnScanForm.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductDetailsForm.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductInformationForm.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogOnForm.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmBarcodeSelect.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmDimensions.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmInput.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\LSRetailPosis.POSProcesses.frmPayCash.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCurrency.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCustomerAccount.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmReturnTransaction.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ManagerAccessForm.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogbookForm.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.RegisterTimeForm.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ViewTimeClockEntriesForm.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\GenerateResource.read.1.tlog
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\GenerateResource.write.1.tlog
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.dll
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.pdb
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.dll.licenses
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\LSRetailPosis.ButtonGrid.frmBarcodeSelect.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.Properties.Resources.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnForm.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnScanForm.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductDetailsForm.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductInformationForm.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogOnForm.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmBarcodeSelect.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmDimensions.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmInput.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\LSRetailPosis.POSProcesses.frmPayCash.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCurrency.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCustomerAccount.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmReturnTransaction.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ManagerAccessForm.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogbookForm.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.RegisterTimeForm.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ViewTimeClockEntriesForm.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\GenerateResource.read.1.tlog
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\GenerateResource.write.1.tlog
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.dll.licenses
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.dll
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.pdb
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\InteractionDefaults\obj\Debug\LSRetailPosis.ButtonGrid.frmBarcodeSelect.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.Properties.Resources.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnForm.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnScanForm.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductDetailsForm.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductInformationForm.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogOnForm.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmBarcodeSelect.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmDimensions.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmInput.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\InteractionDefaults\obj\Debug\LSRetailPosis.POSProcesses.frmPayCash.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCurrency.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCustomerAccount.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmReturnTransaction.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ManagerAccessForm.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogbookForm.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.RegisterTimeForm.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ViewTimeClockEntriesForm.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.csproj.GenerateResource.Cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.dll.licenses
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.pdb
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\InteractionDefaults\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\InteractionDefaults\obj\Debug\LSRetailPosis.ButtonGrid.frmBarcodeSelect.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.Properties.Resources.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnForm.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnScanForm.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductDetailsForm.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductInformationForm.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogOnForm.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmBarcodeSelect.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmDimensions.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmInput.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\InteractionDefaults\obj\Debug\LSRetailPosis.POSProcesses.frmPayCash.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCurrency.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCustomerAccount.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmReturnTransaction.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ManagerAccessForm.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogbookForm.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.RegisterTimeForm.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ViewTimeClockEntriesForm.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\InteractionDefaults\obj\Debug\GenerateResource.read.1.tlog
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\InteractionDefaults\obj\Debug\GenerateResource.write.1.tlog
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.dll.licenses
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.dll
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.pdb
+D:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\LSRetailPosis.ButtonGrid.frmBarcodeSelect.resources
+D:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.Properties.Resources.resources
+D:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnForm.resources
+D:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnScanForm.resources
+D:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductDetailsForm.resources
+D:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductInformationForm.resources
+D:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogOnForm.resources
+D:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmBarcodeSelect.resources
+D:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmDimensions.resources
+D:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmInput.resources
+D:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\LSRetailPosis.POSProcesses.frmPayCash.resources
+D:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCurrency.resources
+D:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCustomerAccount.resources
+D:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmReturnTransaction.resources
+D:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ManagerAccessForm.resources
+D:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogbookForm.resources
+D:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.RegisterTimeForm.resources
+D:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ViewTimeClockEntriesForm.resources
+D:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.csproj.GenerateResource.Cache
+D:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.dll.licenses
+D:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.dll
+D:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.pdb
+D:\Retail MME\POS Plug-ins\Services\InteractionDefaults\obj\Debug\LSRetailPosis.ButtonGrid.frmBarcodeSelect.resources
+D:\Retail MME\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.Properties.Resources.resources
+D:\Retail MME\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnForm.resources
+D:\Retail MME\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnScanForm.resources
+D:\Retail MME\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductDetailsForm.resources
+D:\Retail MME\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductInformationForm.resources
+D:\Retail MME\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogOnForm.resources
+D:\Retail MME\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmBarcodeSelect.resources
+D:\Retail MME\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmDimensions.resources
+D:\Retail MME\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmInput.resources
+D:\Retail MME\POS Plug-ins\Services\InteractionDefaults\obj\Debug\LSRetailPosis.POSProcesses.frmPayCash.resources
+D:\Retail MME\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCurrency.resources
+D:\Retail MME\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCustomerAccount.resources
+D:\Retail MME\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmReturnTransaction.resources
+D:\Retail MME\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ManagerAccessForm.resources
+D:\Retail MME\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogbookForm.resources
+D:\Retail MME\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.RegisterTimeForm.resources
+D:\Retail MME\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ViewTimeClockEntriesForm.resources
+D:\Retail MME\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.csproj.GenerateResource.Cache
+D:\Retail MME\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.dll.licenses
+D:\Retail MME\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.dll
+D:\Retail MME\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.pdb
+D:\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\LSRetailPosis.ButtonGrid.frmBarcodeSelect.resources
+D:\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.Properties.Resources.resources
+D:\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnForm.resources
+D:\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnScanForm.resources
+D:\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductDetailsForm.resources
+D:\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductInformationForm.resources
+D:\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogOnForm.resources
+D:\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmBarcodeSelect.resources
+D:\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmDimensions.resources
+D:\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmInput.resources
+D:\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\LSRetailPosis.POSProcesses.frmPayCash.resources
+D:\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCurrency.resources
+D:\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCustomerAccount.resources
+D:\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmReturnTransaction.resources
+D:\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ManagerAccessForm.resources
+D:\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogbookForm.resources
+D:\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.RegisterTimeForm.resources
+D:\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ViewTimeClockEntriesForm.resources
+D:\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.csproj.GenerateResource.Cache
+D:\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.dll.licenses
+D:\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.dll
+D:\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.pdb
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\InteractionDefaults.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\InteractionDefaults.pdb
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\InteractionDefaults.dll
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\InteractionDefaults.pdb
+C:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\LSRetailPosis.ButtonGrid.frmBarcodeSelect.resources
+C:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.Properties.Resources.resources
+C:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnForm.resources
+C:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnScanForm.resources
+C:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductDetailsForm.resources
+C:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductInformationForm.resources
+C:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogOnForm.resources
+C:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmBarcodeSelect.resources
+C:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmDimensions.resources
+C:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmInput.resources
+C:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\LSRetailPosis.POSProcesses.frmPayCash.resources
+C:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCurrency.resources
+C:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCustomerAccount.resources
+C:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmReturnTransaction.resources
+C:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ManagerAccessForm.resources
+C:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogbookForm.resources
+C:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.RegisterTimeForm.resources
+C:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ViewTimeClockEntriesForm.resources
+C:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.csproj.GenerateResource.Cache
+C:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.dll.licenses
+C:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.dll
+C:\POS\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.pdb
+C:\Nim Dev\POS Plug-ins\Services\InteractionDefaults\obj\Debug\LSRetailPosis.ButtonGrid.frmBarcodeSelect.resources
+C:\Nim Dev\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.Properties.Resources.resources
+C:\Nim Dev\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnForm.resources
+C:\Nim Dev\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnScanForm.resources
+C:\Nim Dev\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductDetailsForm.resources
+C:\Nim Dev\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductInformationForm.resources
+C:\Nim Dev\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogOnForm.resources
+C:\Nim Dev\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmBarcodeSelect.resources
+C:\Nim Dev\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmDimensions.resources
+C:\Nim Dev\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmInput.resources
+C:\Nim Dev\POS Plug-ins\Services\InteractionDefaults\obj\Debug\LSRetailPosis.POSProcesses.frmPayCash.resources
+C:\Nim Dev\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCurrency.resources
+C:\Nim Dev\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCustomerAccount.resources
+C:\Nim Dev\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmReturnTransaction.resources
+C:\Nim Dev\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ManagerAccessForm.resources
+C:\Nim Dev\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogbookForm.resources
+C:\Nim Dev\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.RegisterTimeForm.resources
+C:\Nim Dev\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ViewTimeClockEntriesForm.resources
+C:\Nim Dev\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.csproj.GenerateResource.Cache
+C:\Nim Dev\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.dll.licenses
+C:\Nim Dev\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.dll
+C:\Nim Dev\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.pdb
+E:\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\LSRetailPosis.ButtonGrid.frmBarcodeSelect.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.Properties.Resources.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnForm.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnScanForm.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductDetailsForm.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductInformationForm.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogOnForm.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmBarcodeSelect.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmDimensions.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmInput.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\LSRetailPosis.POSProcesses.frmPayCash.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCurrency.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCustomerAccount.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmReturnTransaction.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ManagerAccessForm.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogbookForm.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.RegisterTimeForm.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ViewTimeClockEntriesForm.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.csproj.GenerateResource.Cache
+E:\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.dll.licenses
+E:\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.dll
+E:\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.pdb
+E:\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.csprojResolveAssemblyReference.cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.csprojResolveAssemblyReference.cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\LSRetailPosis.ButtonGrid.frmBarcodeSelect.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.Properties.Resources.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnForm.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ExtendedLogOnScanForm.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductDetailsForm.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.WinFormsTouch.ProductInformationForm.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogOnForm.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmBarcodeSelect.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmDimensions.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmInput.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\LSRetailPosis.POSProcesses.frmPayCash.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCurrency.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmPayCustomerAccount.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.frmReturnTransaction.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ManagerAccessForm.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.LogbookForm.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.RegisterTimeForm.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\Microsoft.Dynamics.Retail.Pos.Interaction.ViewTimeClockEntriesForm.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.csproj.GenerateResource.Cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.dll.licenses
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.dll
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\InteractionDefaults\obj\Debug\InteractionDefaults.pdb
