@@ -1,0 +1,9 @@
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Infocodes\bin\Release\InfoCodes.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Infocodes\obj\Release\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.Properties.Resources.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Infocodes\obj\Release\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeBase.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Infocodes\obj\Release\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeList.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Infocodes\obj\Release\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoSubCode.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Infocodes\obj\Release\Infocodes.csproj.GenerateResource.Cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Infocodes\obj\Release\InfoCodes.dll.licenses
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Infocodes\obj\Release\InfoCodes.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\InfoCodes.dll

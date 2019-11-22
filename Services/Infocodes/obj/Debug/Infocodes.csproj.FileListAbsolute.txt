@@ -1,0 +1,115 @@
+C:\Users\dvsdev2\Desktop\Services\Infocodes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dvsdev2\Desktop\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.Properties.Resources.resources
+C:\Users\dvsdev2\Desktop\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeBase.resources
+C:\Users\dvsdev2\Desktop\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeList.resources
+C:\Users\dvsdev2\Desktop\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoSubCode.resources
+C:\Users\dvsdev2\Desktop\Services\Infocodes\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\dvsdev2\Desktop\Services\Infocodes\obj\Debug\GenerateResource.write.1.tlog
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Infocodes\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.Properties.Resources.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeBase.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeList.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoSubCode.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Infocodes\obj\Debug\GenerateResource.read.1.tlog
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Infocodes\obj\Debug\GenerateResource.write.1.tlog
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.dll
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.pdb
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Infocodes\obj\Debug\ResolveAssemblyReference.cache
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.Properties.Resources.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeBase.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeList.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoSubCode.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Infocodes\obj\Debug\GenerateResource.read.1.tlog
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Infocodes\obj\Debug\GenerateResource.write.1.tlog
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.dll
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.pdb
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.dll.licenses
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Infocodes\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.Properties.Resources.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeBase.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeList.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoSubCode.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Infocodes\obj\Debug\GenerateResource.read.1.tlog
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Infocodes\obj\Debug\GenerateResource.write.1.tlog
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.dll.licenses
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.dll
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.pdb
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.Properties.Resources.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeBase.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeList.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoSubCode.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Infocodes\obj\Debug\Infocodes.csproj.GenerateResource.Cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.dll.licenses
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.pdb
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Infocodes\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.Properties.Resources.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeBase.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeList.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoSubCode.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Infocodes\obj\Debug\GenerateResource.read.1.tlog
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Infocodes\obj\Debug\GenerateResource.write.1.tlog
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.dll.licenses
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.dll
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.pdb
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\InfoCodes.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\InfoCodes.pdb
+D:\POS\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.Properties.Resources.resources
+D:\POS\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeBase.resources
+D:\POS\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeList.resources
+D:\POS\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoSubCode.resources
+D:\POS\POS Plug-ins\Services\Infocodes\obj\Debug\Infocodes.csproj.GenerateResource.Cache
+D:\POS\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.dll.licenses
+D:\POS\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.dll
+D:\POS\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.pdb
+D:\Retail MME\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.Properties.Resources.resources
+D:\Retail MME\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeBase.resources
+D:\Retail MME\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeList.resources
+D:\Retail MME\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoSubCode.resources
+D:\Retail MME\POS Plug-ins\Services\Infocodes\obj\Debug\Infocodes.csproj.GenerateResource.Cache
+D:\Retail MME\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.dll.licenses
+D:\Retail MME\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.dll
+D:\Retail MME\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.pdb
+D:\Retail Samra\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.Properties.Resources.resources
+D:\Retail Samra\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeBase.resources
+D:\Retail Samra\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeList.resources
+D:\Retail Samra\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoSubCode.resources
+D:\Retail Samra\POS Plug-ins\Services\Infocodes\obj\Debug\Infocodes.csproj.GenerateResource.Cache
+D:\Retail Samra\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.dll.licenses
+D:\Retail Samra\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.dll
+D:\Retail Samra\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.pdb
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\InfoCodes.dll
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\InfoCodes.pdb
+C:\POS\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.Properties.Resources.resources
+C:\POS\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeBase.resources
+C:\POS\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeList.resources
+C:\POS\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoSubCode.resources
+C:\POS\POS Plug-ins\Services\Infocodes\obj\Debug\Infocodes.csproj.GenerateResource.Cache
+C:\POS\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.dll.licenses
+C:\POS\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.dll
+C:\POS\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.pdb
+C:\Nim Dev\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.Properties.Resources.resources
+C:\Nim Dev\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeBase.resources
+C:\Nim Dev\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeList.resources
+C:\Nim Dev\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoSubCode.resources
+C:\Nim Dev\POS Plug-ins\Services\Infocodes\obj\Debug\Infocodes.csproj.GenerateResource.Cache
+C:\Nim Dev\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.dll.licenses
+C:\Nim Dev\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.dll
+C:\Nim Dev\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.pdb
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.Properties.Resources.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeBase.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeList.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoSubCode.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Infocodes\obj\Debug\Infocodes.csproj.GenerateResource.Cache
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.dll.licenses
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.dll
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.pdb
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Infocodes\obj\Debug\Infocodes.csprojResolveAssemblyReference.cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Infocodes\obj\Debug\Infocodes.csprojResolveAssemblyReference.cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.Properties.Resources.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeBase.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoCodeSubCodeList.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Infocodes\obj\Debug\Microsoft.Dynamics.Retail.Pos.Services.InfoCodes.FormInfoSubCode.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Infocodes\obj\Debug\Infocodes.csproj.GenerateResource.Cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.dll.licenses
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Infocodes\obj\Debug\InfoCodes.dll
