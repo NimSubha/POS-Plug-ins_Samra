@@ -1,0 +1,66 @@
+C:\Users\dvsdev2\Desktop\Services\Card\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dvsdev2\Desktop\Services\Card\obj\Debug\Microsoft.Dynamics.Retail.Pos.Card.frmSelectCardType.resources
+C:\Users\dvsdev2\Desktop\Services\Card\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\dvsdev2\Desktop\Services\Card\obj\Debug\GenerateResource.write.1.tlog
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Card\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Card\obj\Debug\Microsoft.Dynamics.Retail.Pos.Card.frmSelectCardType.resources
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Card\obj\Debug\GenerateResource.read.1.tlog
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Card\obj\Debug\GenerateResource.write.1.tlog
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Card\obj\Debug\Card.dll
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\Card\obj\Debug\Card.pdb
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Card\obj\Debug\ResolveAssemblyReference.cache
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Card\obj\Debug\Microsoft.Dynamics.Retail.Pos.Card.frmSelectCardType.resources
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Card\obj\Debug\GenerateResource.read.1.tlog
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Card\obj\Debug\GenerateResource.write.1.tlog
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Card\obj\Debug\Card.dll
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Card\obj\Debug\Card.pdb
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Card\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Card\obj\Debug\Microsoft.Dynamics.Retail.Pos.Card.frmSelectCardType.resources
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Card\obj\Debug\GenerateResource.read.1.tlog
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Card\obj\Debug\GenerateResource.write.1.tlog
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Card\obj\Debug\Card.dll
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\Card\obj\Debug\Card.pdb
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Card\obj\Debug\Microsoft.Dynamics.Retail.Pos.Card.frmSelectCardType.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Card\obj\Debug\Card.csproj.GenerateResource.Cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Card\obj\Debug\Card.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Card\obj\Debug\Card.pdb
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Card\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Card\obj\Debug\Microsoft.Dynamics.Retail.Pos.Card.frmSelectCardType.resources
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Card\obj\Debug\GenerateResource.read.1.tlog
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Card\obj\Debug\GenerateResource.write.1.tlog
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Card\obj\Debug\Card.dll
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\Card\obj\Debug\Card.pdb
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\Card.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\Card.pdb
+D:\POS\POS Plug-ins\Services\Card\obj\Debug\Microsoft.Dynamics.Retail.Pos.Card.frmSelectCardType.resources
+D:\POS\POS Plug-ins\Services\Card\obj\Debug\Card.csproj.GenerateResource.Cache
+D:\POS\POS Plug-ins\Services\Card\obj\Debug\Card.dll
+D:\POS\POS Plug-ins\Services\Card\obj\Debug\Card.pdb
+D:\Retail MME\POS Plug-ins\Services\Card\obj\Debug\Microsoft.Dynamics.Retail.Pos.Card.frmSelectCardType.resources
+D:\Retail MME\POS Plug-ins\Services\Card\obj\Debug\Card.csproj.GenerateResource.Cache
+D:\Retail MME\POS Plug-ins\Services\Card\obj\Debug\Card.dll
+D:\Retail MME\POS Plug-ins\Services\Card\obj\Debug\Card.pdb
+D:\Retail Samra\POS Plug-ins\Services\Card\obj\Debug\Microsoft.Dynamics.Retail.Pos.Card.frmSelectCardType.resources
+D:\Retail Samra\POS Plug-ins\Services\Card\obj\Debug\Card.csproj.GenerateResource.Cache
+D:\Retail Samra\POS Plug-ins\Services\Card\obj\Debug\Card.dll
+D:\Retail Samra\POS Plug-ins\Services\Card\obj\Debug\Card.pdb
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\Card.dll
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\Card.pdb
+C:\POS\POS Plug-ins\Services\Card\obj\Debug\Microsoft.Dynamics.Retail.Pos.Card.frmSelectCardType.resources
+C:\POS\POS Plug-ins\Services\Card\obj\Debug\Card.csproj.GenerateResource.Cache
+C:\POS\POS Plug-ins\Services\Card\obj\Debug\Card.dll
+C:\POS\POS Plug-ins\Services\Card\obj\Debug\Card.pdb
+C:\Nim Dev\POS Plug-ins\Services\Card\obj\Debug\Microsoft.Dynamics.Retail.Pos.Card.frmSelectCardType.resources
+C:\Nim Dev\POS Plug-ins\Services\Card\obj\Debug\Card.csproj.GenerateResource.Cache
+C:\Nim Dev\POS Plug-ins\Services\Card\obj\Debug\Card.dll
+C:\Nim Dev\POS Plug-ins\Services\Card\obj\Debug\Card.pdb
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Card\obj\Debug\Microsoft.Dynamics.Retail.Pos.Card.frmSelectCardType.resources
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Card\obj\Debug\Card.csproj.GenerateResource.Cache
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Card\obj\Debug\Card.dll
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Card\obj\Debug\Card.pdb
+E:\POS Source\Retail Samra\POS Plug-ins\Services\Card\obj\Debug\Card.csprojResolveAssemblyReference.cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Card\obj\Debug\Card.csprojResolveAssemblyReference.cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Card\obj\Debug\Microsoft.Dynamics.Retail.Pos.Card.frmSelectCardType.resources
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Card\obj\Debug\Card.csproj.GenerateResource.Cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Card\obj\Debug\Card.dll
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\Card\obj\Debug\Card.pdb

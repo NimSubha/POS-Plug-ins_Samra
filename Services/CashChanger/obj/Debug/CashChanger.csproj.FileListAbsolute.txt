@@ -1,0 +1,35 @@
+C:\Users\dvsdev2\Desktop\Services\CashChanger\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\CashChanger\obj\Debug\ResolveAssemblyReference.cache
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.dll
+E:\AX Retail POS 6.2 FINAL RELEASE - Copy\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.pdb
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CashChanger\obj\Debug\ResolveAssemblyReference.cache
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.dll
+D:\Neeraj\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.pdb
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CashChanger\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.dll
+D:\AX Retail POS 6.2 FINAL RELEASE\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.pdb
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.pdb
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\CashChanger\obj\Debug\ResolveAssemblyReference.cache
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.dll
+D:\AX Retail POS_Reliance\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.pdb
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\CashChanger.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\CashChanger.pdb
+D:\POS\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.dll
+D:\POS\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.pdb
+D:\Retail MME\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.dll
+D:\Retail MME\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.pdb
+D:\Retail Samra\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.dll
+D:\Retail Samra\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.pdb
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\CashChanger.dll
+C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\Services\CashChanger.pdb
+C:\POS\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.dll
+C:\POS\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.pdb
+C:\Nim Dev\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.dll
+C:\Nim Dev\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.pdb
+E:\POS Source\Retail Samra\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.dll
+E:\POS Source\Retail Samra\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.pdb
+E:\POS Source\Retail Samra\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.csprojResolveAssemblyReference.cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.csprojResolveAssemblyReference.cache
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.dll
+E:\Subhajit Saha\POS Source\Retail Samra\POS Plug-ins\Services\CashChanger\obj\Debug\CashChanger.pdb

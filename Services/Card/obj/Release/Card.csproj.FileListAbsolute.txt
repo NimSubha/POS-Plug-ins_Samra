@@ -1,0 +1,5 @@
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Card\bin\Release\Card.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Card\obj\Release\Microsoft.Dynamics.Retail.Pos.Card.frmSelectCardType.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Card\obj\Release\Card.csproj.GenerateResource.Cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Card\obj\Release\Card.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\Card.dll
