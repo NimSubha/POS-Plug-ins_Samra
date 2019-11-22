@@ -1,0 +1,9 @@
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Tax\bin\Release\Tax.dll.config
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Tax\bin\Release\Tax.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Tax\bin\Release\Price.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Tax\obj\Release\Tax.csprojResolveAssemblyReference.cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Tax\obj\Release\Microsoft.Dynamics.Retail.Pos.TaxService.Properties.Resources.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Tax\obj\Release\Tax.csproj.GenerateResource.Cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\Tax\obj\Release\Tax.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\Tax.dll.config
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\Tax.dll

@@ -1,0 +1,5 @@
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\TenderRestriction\bin\Release\TenderRestriction.dll
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\TenderRestriction\obj\Release\Microsoft.Dynamics.Retail.Pos.TenderRestriction.frmTenderRestriction.resources
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\TenderRestriction\obj\Release\TenderRestriction.csproj.GenerateResource.Cache
+D:\POS\AX Retail POS 6.2\POS Plug-ins\Services\TenderRestriction\obj\Release\TenderRestriction.dll
+C:\Program Files\Microsoft Dynamics AX\60\Retail POS\Services\TenderRestriction.dll
